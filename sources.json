@@ -1,0 +1,92 @@
+{
+	"JQuery": {
+		"script": "jquery/3.2.1/jquery.min.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"JQuery-UI": {
+		"stylesheet": "1.12.1/themes/smoothness/jquery-ui.css",
+		"script": "1.12.1/jquery-ui.min.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"JQuery Mobile": {
+		"stylesheet": "jquerymobile/1.4.5/jquery.mobile.min.css",
+		"script": "jquerymobile/1.4.5/jquery.mobile.min.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"AngularJS": {
+		"script": "angularjs/1.6.4/angular.min.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"Angular Material": {
+		"script": "angular_material/1.1.4/angular-material.min.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+	"Angular UI Router": {
+		"script": "angular-ui-router/1.0.0-rc.1/angular-ui-router.min.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"Dojo": {
+		"script": "dojo/1.12.2/dojo/dojo.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"Ext Core": {
+		"script": "ext-core/3.1.0/ext-core.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"Hammer.JS": {
+		"script": "hammerjs/2.0.8/hammer.min.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"Indefinite Observable": {
+		"script": "indefinite-observable/1.0.1/indefinite-observable.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"MooTools": {
+		"script": "mootools/1.6.0/mootools.min.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"Prototype": {
+		"script": "prototype/1.7.3.0/prototype.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"script.aculo.us": {
+		"script": "scriptaculous/1.9.0/scriptaculous.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"Shaka Player": {
+		"script": "shaka-player/2.1.2/shaka-player.compiled.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"SPF": {
+		"script": "spf/2.4.0/spf.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"SWFObject": {
+		"script": "swfobject/2.2/swfobject.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"three.js": {
+		"script": "threejs/r84/three.min.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	},
+
+	"Web Font Loader": {
+		"script": "webfont/1.6.26/webfont.js",
+        "url": "https://ajax.googleapis.com/ajax/libs/"
+	}
+}

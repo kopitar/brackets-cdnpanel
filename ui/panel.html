@@ -1,0 +1,45 @@
+<div id="cdn-panel-id">
+  <div class="cdn-panel-header">
+    <button class="aboutBtn" data-bind="click: aboutModal">&#63;</button>
+    <button class="resizeBtn" data-bind="click: resizePanel"></button>
+    <button data-bind="click: hidePanel">&times;</button>
+  </div>
+
+  <div class="cdn-search-area">
+    <label>Search by list:</label>
+    <select id="libs" data-bind="options: resources,
+                                    value: selectedItem
+                                    ">
+    </select>
+    <button id="cdn-search-btn" data-bind="click: findData">Find</button>
+    <p class="cdn-search-divider">&#9679;</p>
+    <label>Search by keyword:</label>
+    <input id="panel-input" type="text" placeholder="search..." data-bind="value: keywordEntered, updateValue: input">
+    <button id="cdn-search-btn" data-bind="click: findByKeyword">Find</button>
+    <p class="searchHits" data-bind="visible: showHits">Search results: <span class="searchHitsNum" data-bind="text: searchHits">&nbsp;</span></p>
+  </div>
+
+  <div id="cdn-data-wrapper">
+    <div class="panel-data" data-bind="foreach: items">
+      <span class="cdn-nameline">
+            <h2 data-bind="text: name"></h2><span data-bind="html: cdnjsLink"></span>
+      </span>
+      <ul class="cdn-data-ul-left">
+        <li data-bind="text: description"></li>
+        <li class="cdn-keywords" data-bind="text: keywords"></li>
+      </ul>
+
+      <ul class="cdn-data-ul-right">
+        <li class="cdn-links" data-bind="html: $root.links"></li>
+        <li class="cdn-infotext" data-bind="text: version"></li>
+        <li class="cdn-infotext" data-bind="text: author.name"></li>
+        <li class="cdn-infotext" data-bind="text: $root.license"></li>
+      </ul>
+      <div class="cdn-latest-section">
+        <input class="latest" type="text" data-bind="value: latest, event: {mouseover: $root.selectText }">
+        <button class="copyBtn" data-bind="event: {mouseover: $root.copyText }">COPY</button>
+        <p class="cdn-copytext">&nbsp;</p>
+      </div>
+    </div>
+  </div>
+</div>
