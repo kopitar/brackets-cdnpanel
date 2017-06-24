@@ -71,11 +71,11 @@ define(function(require, exports, module) {
   function resizePanel() {
     if (Config.panelSize == 450) {
       Config.panelSize = screen.availHeight;
-      $('#panel-id').css('height', Config.panelSize + "px");
+      $('#cdn-panel-id').css('height', Config.panelSize + "px");
       WorkspaceManager.recomputeLayout(true);
     } else if (Config.panelSize != 450) {
       Config.panelSize = 450;
-      $('#panel-id').css('height', Config.panelSize + "px");
+      $('#cdn-panel-id').css('height', Config.panelSize + "px");
       WorkspaceManager.recomputeLayout(true);
     }
   }
