@@ -7,7 +7,7 @@
   "author": "Kopitar Anže <kopitar71@gmail.com> (https://github.com/kopitar)",
   "license": "MIT",
     "dependencies": {
-        "knockout.js": "3.4.2",
+        "knockout.js": "3.4.2"
     },
   "keywords": ["CDN","library","css","plugin","script","API","framework","","font","icon","svg"]
 }
