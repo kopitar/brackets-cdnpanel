@@ -3,11 +3,8 @@
   "title": "CDN PANEL",
   "homepage": "https://github.com/kopitar/brackets-cdnpanel",
   "version": "0.4.0",
-  "description": "Get instant access to over 3000 Javascript libraries, plugins, CSS frameworks, fonts etc. Simply choose what you need from a list or find it by typing in a keyword. That way you are always just a few click from the latest version of what you need. ",
+  "description": "Get instant access to over 3000 Javascript libraries, plugins, CSS frameworks, fonts etc. Simply choose what you need from a list or find it by typing in a keyword. That way you are always just a few click from the latest version of what you need.",
   "author": "Kopitar Anže <kopitar71@gmail.com> (https://github.com/kopitar)",
   "license": "MIT",
-    "dependencies": {
-        "knockout.js": "3.4.2"
-    },
-  "keywords": ["CDN","library","css","plugin","script","API","framework","","font","icon","svg"]
+  "keywords": ["CDN","library","css","plugin","script","API","framework","font","icon","svg"]
 }
