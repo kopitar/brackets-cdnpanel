@@ -7,4 +7,4 @@
 * updated libs.json, available libraries change from 3018 to 3160
 
 ## 0.5.1 (24/09/2017)
-* updated version to 0.5.1 and made available on Brackets Extension Registry  
+* updated version to 0.5.11 and made available on Brackets Extension Registry  
