@@ -49,7 +49,7 @@ overflow-y: scroll;
     flex-flow: row nowrap;
 }
 
-.cdn-search-area input,#libs {
+.cdn-search-area input,select {
     margin: 3px 7px 20px 0px;
     border-left: 0;
     border-top-left-radius: 0px;

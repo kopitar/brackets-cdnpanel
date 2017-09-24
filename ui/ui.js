@@ -55,7 +55,7 @@ define(function(require, exports, module) {
   // the About extension modal
   function aboutModal() {
     var displayAbout = "<img style=\"float: left; margin:0px 5px; padding:0;\" src=\"" + localPath + "ui/css/images/logo_cdnjs.png\" alt=\"logo\">";
-    displayAbout += "<br></span>\n<small style=\"vertical-align:bottom;\">version: 0.4.0</small><br><br>\n";
+    displayAbout += "<br></span>\n<small style=\"vertical-align:bottom;\">version: 0.5.1</small><br><br>\n";
     displayAbout += "<span style=\"letter-spacing: 1px;\">Instant access to Javascript libraries, plugins, CSS frameworks, fonts & icons. All hosted on <a href=\"https://www.cdnjs.com\" target=\"_blank\">www.cdnjs.com</a>.<hr>";
     displayAbout += "<p>&#9679; Author: Kopitar Anže</p><p>&#9679; Homepage: <a href=\"https://github.com/kopitar/brackets-cdnpanel\" >https://github.com/kopitar/brackets-cdnpanel</a></p>";
     displayAbout += "&#9679; Contact: <a href=\"mailto:kopitar71@gmail.com\">kopitar71@gmail.com</a><br><hr>";
