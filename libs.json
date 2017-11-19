@@ -18,11 +18,11 @@
     },
     {
       "name": "3Dmol",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/3Dmol/1.2.0/3Dmol-min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/3Dmol/1.3.0/3Dmol-min.js"
     },
     {
       "name": "6pac-slickgrid",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/6pac-slickgrid/2.3.8/slick.core.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/6pac-slickgrid/2.3.10/slick.core.min.js"
     },
     {
       "name": "6px",
@@ -42,7 +42,7 @@
     },
     {
       "name": "absurd",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/absurd/0.3.8/absurd.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/absurd/0.3.9/absurd.min.js"
     },
     {
       "name": "academicons",
@@ -54,23 +54,27 @@
     },
     {
       "name": "ace",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.8/ace.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.9/ace.js"
     },
     {
       "name": "acorn",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/acorn/5.1.2/acorn.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/acorn/5.2.1/acorn.min.js"
     },
     {
       "name": "across-tabs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/across-tabs/1.1.0/across-tabs.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/across-tabs/1.2.0/across-tabs.min.js"
     },
     {
       "name": "adapterjs",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/adapterjs/0.15.0/adapter.min.js"
     },
     {
+      "name": "adblock-detect",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/adblock-detect/1.0.5/index.min.js"
+    },
+    {
       "name": "admin-lte",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/admin-lte/2.4.0/js/adminlte.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/admin-lte/2.4.2/js/adminlte.min.js"
     },
     {
       "name": "adobe-sign-sdk",
@@ -90,11 +94,11 @@
     },
     {
       "name": "aframe",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/aframe/0.7.0/aframe-master.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/aframe/0.7.1/aframe.min.js"
     },
     {
       "name": "ag-grid",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ag-grid/13.2.0/ag-grid.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ag-grid/14.2.0/ag-grid.min.js"
     },
     {
       "name": "agility",
@@ -118,11 +122,11 @@
     },
     {
       "name": "ajax-bootstrap-select",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ajax-bootstrap-select/1.4.1/js/ajax-bootstrap-select.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ajax-bootstrap-select/1.4.3/js/ajax-bootstrap-select.min.js"
     },
     {
       "name": "ajaxify",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ajaxify/6.9.2/ajaxify.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ajaxify/7.0.0/ajaxify.min.js"
     },
     {
       "name": "ajile",
@@ -130,11 +134,11 @@
     },
     {
       "name": "ajv",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ajv/5.2.2/ajv.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ajv/5.3.0/ajv.min.js"
     },
     {
       "name": "alasql",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/alasql/0.4.2/alasql.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/alasql/0.4.3/alasql.min.js"
     },
     {
       "name": "alchemyjs",
@@ -158,15 +162,15 @@
     },
     {
       "name": "algoliasearch-helper-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/algoliasearch-helper-js/2.21.2/algoliasearch.helper.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/algoliasearch-helper-js/2.23.0/algoliasearch.helper.min.js"
     },
     {
       "name": "algoliasearch.zendesk-hc",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/algoliasearch.zendesk-hc/2.17.2/algoliasearch.zendesk-hc.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/algoliasearch.zendesk-hc/2.17.4/algoliasearch.zendesk-hc.min.js"
     },
     {
       "name": "algoliasearch",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.24.4/algoliasearch.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.24.6/algoliasearch.min.js"
     },
     {
       "name": "allmighty-autocomplete",
@@ -206,11 +210,11 @@
     },
     {
       "name": "amcharts",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/amcharts/3.21.6/amcharts.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/amcharts/3.21.7/amcharts.js"
     },
     {
       "name": "ami.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ami.js/0.0.20/ami.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ami.js/0.0.22/ami.min.js"
     },
     {
       "name": "ammaps",
@@ -219,6 +223,10 @@
     {
       "name": "amplifyjs",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/amplifyjs/1.1.2/amplify.min.js"
+    },
+    {
+      "name": "amplitudejs",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/amplitudejs/3.2.3/amplitude.min.js"
     },
     {
       "name": "amstockchart",
@@ -326,7 +334,7 @@
     },
     {
       "name": "angular-chartist.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-chartist.js/4.3.3/angular-chartist.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-chartist.js/4.3.4/angular-chartist.min.js"
     },
     {
       "name": "angular-charts",
@@ -342,7 +350,7 @@
     },
     {
       "name": "angular-clipboard",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-clipboard/1.6.1/angular-clipboard.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-clipboard/1.6.2/angular-clipboard.min.js"
     },
     {
       "name": "angular-confirm",
@@ -430,7 +438,7 @@
     },
     {
       "name": "angular-foundation-6",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-foundation-6/0.11.11/angular-foundation.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-foundation-6/0.11.16/angular-foundation.min.js"
     },
     {
       "name": "angular-foundation",
@@ -494,11 +502,11 @@
     },
     {
       "name": "angular-input-masks",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-input-masks/3.2.0/angular-input-masks.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-input-masks/4.1.0/angular-input-masks.min.js"
     },
     {
       "name": "angular-inview",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-inview/2.2.0/angular-inview.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-inview/2.3.0/angular-inview.min.js"
     },
     {
       "name": "angular-js-bootstrap-datetimepicker",
@@ -526,7 +534,7 @@
     },
     {
       "name": "angular-mapboxgl-directive",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-mapboxgl-directive/0.41.0/angular-mapboxgl-directive.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-mapboxgl-directive/0.43.0/angular-mapboxgl-directive.min.js"
     },
     {
       "name": "angular-material-data-table",
@@ -570,7 +578,7 @@
     },
     {
       "name": "angular-moment",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-moment/1.0.1/angular-moment.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-moment/1.1.0/angular-moment.min.js"
     },
     {
       "name": "angular-morris",
@@ -618,7 +626,7 @@
     },
     {
       "name": "angular-recaptcha",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-recaptcha/4.1.0/angular-recaptcha.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-recaptcha/4.1.1/angular-recaptcha.min.js"
     },
     {
       "name": "angular-relative-date",
@@ -670,7 +678,7 @@
     },
     {
       "name": "angular-smart-table",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-smart-table/2.1.8/smart-table.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-smart-table/2.1.9/smart-table.min.js"
     },
     {
       "name": "angular-smooth-scrollbar",
@@ -738,35 +746,35 @@
     },
     {
       "name": "angular-translate-handler-log",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-handler-log/2.15.2/angular-translate-handler-log.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-handler-log/2.16.0/angular-translate-handler-log.min.js"
     },
     {
       "name": "angular-translate-interpolation-messageformat",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-interpolation-messageformat/2.15.2/angular-translate-interpolation-messageformat.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-interpolation-messageformat/2.16.0/angular-translate-interpolation-messageformat.min.js"
     },
     {
       "name": "angular-translate-loader-partial",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-loader-partial/2.15.2/angular-translate-loader-partial.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-loader-partial/2.16.0/angular-translate-loader-partial.min.js"
     },
     {
       "name": "angular-translate-loader-static-files",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-loader-static-files/2.15.2/angular-translate-loader-static-files.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-loader-static-files/2.16.0/angular-translate-loader-static-files.min.js"
     },
     {
       "name": "angular-translate-loader-url",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-loader-url/2.15.2/angular-translate-loader-url.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-loader-url/2.16.0/angular-translate-loader-url.min.js"
     },
     {
       "name": "angular-translate-storage-cookie",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-storage-cookie/2.15.2/angular-translate-storage-cookie.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-storage-cookie/2.16.0/angular-translate-storage-cookie.min.js"
     },
     {
       "name": "angular-translate-storage-local",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-storage-local/2.15.2/angular-translate-storage-local.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate-storage-local/2.16.0/angular-translate-storage-local.min.js"
     },
     {
       "name": "angular-translate",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate/2.15.2/angular-translate.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-translate/2.16.0/angular-translate.min.js"
     },
     {
       "name": "angular-tree-control",
@@ -794,7 +802,7 @@
     },
     {
       "name": "angular-ui-grid",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-ui-grid/4.0.6/ui-grid.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-ui-grid/4.0.10/ui-grid.min.js"
     },
     {
       "name": "angular-ui-mask",
@@ -886,7 +894,7 @@
     },
     {
       "name": "angular-xeditable",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-xeditable/0.8.0/js/xeditable.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angular-xeditable/0.8.1/js/xeditable.min.js"
     },
     {
       "name": "angular.js",
@@ -902,7 +910,7 @@
     },
     {
       "name": "angularjs-color-picker",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angularjs-color-picker/3.4.6/angularjs-color-picker.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angularjs-color-picker/3.4.8/angularjs-color-picker.min.js"
     },
     {
       "name": "angularjs-datepicker",
@@ -930,7 +938,7 @@
     },
     {
       "name": "angularjs-slider",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angularjs-slider/6.4.0/rzslider.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/angularjs-slider/6.4.1/rzslider.min.js"
     },
     {
       "name": "angularjs-toaster",
@@ -966,7 +974,7 @@
     },
     {
       "name": "animateCSS",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/animateCSS/1.2.1/jquery.animatecss.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/animateCSS/1.2.2/jquery.animatecss.min.js"
     },
     {
       "name": "animated-header",
@@ -986,7 +994,7 @@
     },
     {
       "name": "animejs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/animejs/2.1.0/anime.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js"
     },
     {
       "name": "animo.js",
@@ -1002,11 +1010,11 @@
     },
     {
       "name": "antd-mobile",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/antd-mobile/1.6.8/antd-mobile.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/antd-mobile/2.0.3/antd-mobile.min.js"
     },
     {
       "name": "antd",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/antd/2.13.3/antd.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/antd/2.13.10/antd.min.js"
     },
     {
       "name": "antimoderate",
@@ -1030,7 +1038,7 @@
     },
     {
       "name": "aphrodite",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/aphrodite/1.2.4/aphrodite.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/aphrodite/1.2.5/aphrodite.min.js"
     },
     {
       "name": "api-check",
@@ -1054,7 +1062,7 @@
     },
     {
       "name": "appbase-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/appbase-js/0.11.1/appbase.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/appbase-js/2.2.1/appbase.js"
     },
     {
       "name": "approvejs",
@@ -1082,7 +1090,7 @@
     },
     {
       "name": "asciidoctor.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.6-preview.3/asciidoctor.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.6-preview.4/asciidoctor.min.js"
     },
     {
       "name": "asciinema-player",
@@ -1094,15 +1102,15 @@
     },
     {
       "name": "async",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/async/2.5.0/async.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/async/2.6.0/async.min.js"
     },
     {
       "name": "asynquence-contrib",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/asynquence-contrib/0.28.0/contrib.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/asynquence-contrib/0.28.2/contrib.js"
     },
     {
       "name": "asynquence",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/asynquence/0.10.0/asq.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/asynquence/0.10.2/asq.js"
     },
     {
       "name": "at.js",
@@ -1142,7 +1150,7 @@
     },
     {
       "name": "aui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/aui/6.0.8/aui/js/aui.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/aui/7.1.1/aui/js/aui.min.js"
     },
     {
       "name": "aurelia",
@@ -1190,11 +1198,11 @@
     },
     {
       "name": "autocomplete.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.28.3/autocomplete.jquery.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.29.0/autocomplete.jquery.min.js"
     },
     {
       "name": "autolinker",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/autolinker/1.4.4/Autolinker.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/autolinker/1.6.0/Autolinker.min.js"
     },
     {
       "name": "autonumeric",
@@ -1230,15 +1238,15 @@
     },
     {
       "name": "aws-sdk",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.122.0/aws-sdk.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.153.0/aws-sdk.min.js"
     },
     {
       "name": "axe-core",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/axe-core/2.4.1/axe.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/axe-core/2.5.0/axe.min.js"
     },
     {
       "name": "axios",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/axios/0.17.1/axios.min.js"
     },
     {
       "name": "babel-core",
@@ -1330,7 +1338,7 @@
     },
     {
       "name": "backbone.marionette",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/backbone.marionette/3.4.3/backbone.marionette.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/backbone.marionette/3.5.1/backbone.marionette.min.js"
     },
     {
       "name": "backbone.modal",
@@ -1346,7 +1354,7 @@
     },
     {
       "name": "backbone.paginator",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/backbone.paginator/2.0.5/backbone.paginator.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/backbone.paginator/2.0.6/backbone.paginator.min.js"
     },
     {
       "name": "backbone.projections",
@@ -1406,11 +1414,11 @@
     },
     {
       "name": "baguettebox.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.9.0/baguetteBox.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.9.1/baguetteBox.min.js"
     },
     {
       "name": "balance-text",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/balance-text/3.1.1/balancetext.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/balance-text/3.2.0/balancetext.min.js"
     },
     {
       "name": "balloon-css",
@@ -1422,7 +1430,7 @@
     },
     {
       "name": "baobab",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/baobab/2.4.3/baobab.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/baobab/2.5.0/baobab.js"
     },
     {
       "name": "barba.js",
@@ -1434,7 +1442,7 @@
     },
     {
       "name": "barn",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/barn/0.2.1/barn.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/barn/0.2.3/barn.min.js"
     },
     {
       "name": "Base64",
@@ -1458,7 +1466,7 @@
     },
     {
       "name": "basis.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/basis.js/1.11.0/basis.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/basis.js/1.11.1/basis.min.js"
     },
     {
       "name": "basket.js",
@@ -1502,7 +1510,7 @@
     },
     {
       "name": "big.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/big.js/3.2.0/big.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/big.js/5.0.3/big.min.js"
     },
     {
       "name": "bigfishtv-turret",
@@ -1514,7 +1522,7 @@
     },
     {
       "name": "bignumber.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bignumber.js/4.0.4/bignumber.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bignumber.js/4.1.0/bignumber.min.js"
     },
     {
       "name": "bigslide.js",
@@ -1542,7 +1550,7 @@
     },
     {
       "name": "blackbaud-skyux",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blackbaud-skyux/1.17.0/js/sky.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blackbaud-skyux/1.19.0/js/sky.min.js"
     },
     {
       "name": "blanket.js",
@@ -1550,7 +1558,7 @@
     },
     {
       "name": "blaze",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blaze/3.5.0/blaze.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blaze/3.6.3/blaze.min.css"
     },
     {
       "name": "blazy",
@@ -1566,7 +1574,7 @@
     },
     {
       "name": "blob-polyfill",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blob-polyfill/1.0.20150320/Blob.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blob-polyfill/2.0.20171115/Blob.min.js"
     },
     {
       "name": "blob-util",
@@ -1578,7 +1586,7 @@
     },
     {
       "name": "bluebird",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.5.0/bluebird.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.5.1/bluebird.min.js"
     },
     {
       "name": "blueimp-file-upload",
@@ -1586,7 +1594,7 @@
     },
     {
       "name": "blueimp-gallery",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.27.0/js/blueimp-gallery.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.28.0/js/blueimp-gallery.min.js"
     },
     {
       "name": "blueimp-JavaScript-Templates",
@@ -1594,7 +1602,7 @@
     },
     {
       "name": "blueimp-load-image",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blueimp-load-image/2.17.0/load-image.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/blueimp-load-image/2.17.1/load-image.min.js"
     },
     {
       "name": "blueimp-md5",
@@ -1610,7 +1618,7 @@
     },
     {
       "name": "bodymovin",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bodymovin/4.10.2/bodymovin.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bodymovin/4.13.0/bodymovin.min.js"
     },
     {
       "name": "boexfi",
@@ -1618,7 +1626,7 @@
     },
     {
       "name": "bokeh",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bokeh/0.12.9/bokeh.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bokeh/0.12.10/bokeh.min.js"
     },
     {
       "name": "bonsai",
@@ -1630,7 +1638,7 @@
     },
     {
       "name": "booking-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/booking-js/1.19.1/booking.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/booking-js/1.22.4/booking.min.js"
     },
     {
       "name": "bootbox.js",
@@ -1698,11 +1706,11 @@
     },
     {
       "name": "bootstrap-fileinput",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/4.4.4/js/fileinput.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/4.4.6/js/fileinput.min.js"
     },
     {
       "name": "bootstrap-filestyle",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-filestyle/1.3.0/bootstrap-filestyle.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-filestyle/2.1.0/bootstrap-filestyle.min.js"
     },
     {
       "name": "bootstrap-formhelpers",
@@ -1790,7 +1798,7 @@
     },
     {
       "name": "bootstrap-slider",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.9.0/bootstrap-slider.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/bootstrap-slider.min.js"
     },
     {
       "name": "bootstrap-social",
@@ -1798,7 +1806,7 @@
     },
     {
       "name": "bootstrap-star-rating",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-star-rating/4.0.2/js/star-rating.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-star-rating/4.0.3/js/star-rating.min.js"
     },
     {
       "name": "bootstrap-submenu",
@@ -1866,7 +1874,7 @@
     },
     {
       "name": "bootstrap.native",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.15/bootstrap-native.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.19/bootstrap-native.min.js"
     },
     {
       "name": "bootstrap3-contact-form",
@@ -1893,8 +1901,12 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/bottleneck/1.16.0/bottleneck.min.js"
     },
     {
+      "name": "botui",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/botui/0.3.4/botui.min.js"
+    },
+    {
       "name": "bowser",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bowser/1.7.3/bowser.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bowser/1.8.1/bowser.min.js"
     },
     {
       "name": "bPopup",
@@ -1906,7 +1918,7 @@
     },
     {
       "name": "brand-colors",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/brand-colors/1.2.1/css/brand-colors.latest.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/brand-colors/2.0.1/css/brand-colors.latest.min.css"
     },
     {
       "name": "breezejs",
@@ -1922,11 +1934,11 @@
     },
     {
       "name": "Bridge.NET",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Bridge.NET/16.3.0/bridge.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Bridge.NET/16.5.0/bridge.min.js"
     },
     {
       "name": "britecharts",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/britecharts/2.0.1/bundled/britecharts.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/britecharts/2.4.0/bundled/britecharts.min.js"
     },
     {
       "name": "Broadway",
@@ -1938,7 +1950,7 @@
     },
     {
       "name": "browser-logos",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/browser-logos/42.9.0/chromium/chromium_48x48.png"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/browser-logos/43.2.0/chromium/chromium_48x48.png"
     },
     {
       "name": "brython",
@@ -1966,11 +1978,11 @@
     },
     {
       "name": "bulma",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.5.3/css/bulma.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.1/css/bulma.min.css"
     },
     {
       "name": "bulmaswatch",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bulmaswatch/0.5.1/default/bulmaswatch.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bulmaswatch/0.5.2/default/bulmaswatch.min.css"
     },
     {
       "name": "burger",
@@ -1979,6 +1991,10 @@
     {
       "name": "Buttons",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/Buttons/2.0.0/css/buttons.min.css"
+    },
+    {
+      "name": "buy-button-js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/buy-button-js/0.4.13/buybutton.min.js"
     },
     {
       "name": "buzz",
@@ -1990,7 +2006,7 @@
     },
     {
       "name": "c3-angular",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/c3-angular/1.3.1/c3-angular.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/c3-angular/1.4.0/c3-angular.min.js"
     },
     {
       "name": "c3",
@@ -2026,7 +2042,7 @@
     },
     {
       "name": "can.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/can.js/3.10.3/can.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/can.js/3.12.1/can.min.js"
     },
     {
       "name": "cannon.js",
@@ -2038,7 +2054,7 @@
     },
     {
       "name": "CanvasInput",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/CanvasInput/1.2.6/CanvasInput.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/CanvasInput/1.2.7/CanvasInput.min.js"
     },
     {
       "name": "canvasjs",
@@ -2046,7 +2062,7 @@
     },
     {
       "name": "canvasXpress",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/canvasXpress/17.4/canvasXpress.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/canvasXpress/17.8/canvasXpress.min.js"
     },
     {
       "name": "canvg",
@@ -2098,7 +2114,7 @@
     },
     {
       "name": "cellx",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cellx/1.7.49/cellx.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cellx/1.7.57/cellx.min.js"
     },
     {
       "name": "chai",
@@ -2114,7 +2130,7 @@
     },
     {
       "name": "chance",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/chance/1.0.11/chance.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/chance/1.0.12/chance.min.js"
     },
     {
       "name": "chaplin",
@@ -2126,7 +2142,7 @@
     },
     {
       "name": "Chart.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"
     },
     {
       "name": "chartist-plugin-legend",
@@ -2138,7 +2154,7 @@
     },
     {
       "name": "chartjs-plugin-annotation",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.5/chartjs-plugin-annotation.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"
     },
     {
       "name": "chartjs-plugin-zoom",
@@ -2174,7 +2190,7 @@
     },
     {
       "name": "chocolat",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/chocolat/0.4.18/js/jquery.chocolat.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/chocolat/0.4.19/js/jquery.chocolat.min.js"
     },
     {
       "name": "choices.js",
@@ -2254,7 +2270,7 @@
     },
     {
       "name": "clappr",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/clappr/0.2.74/clappr.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/clappr/0.2.78/clappr.min.js"
     },
     {
       "name": "clarinet",
@@ -2262,11 +2278,11 @@
     },
     {
       "name": "clarity-icons",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/clarity-icons/0.10.6/clarity-icons.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/clarity-icons/0.10.14/clarity-icons.min.js"
     },
     {
       "name": "clarity-ui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/clarity-ui/0.10.6/clarity-ui.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/clarity-ui/0.10.14/clarity-ui.min.css"
     },
     {
       "name": "classie",
@@ -2274,7 +2290,7 @@
     },
     {
       "name": "classlist",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/classlist/1.2.201711092/classList.min.js"
     },
     {
       "name": "classnames",
@@ -2290,7 +2306,7 @@
     },
     {
       "name": "cleave.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cleave.js/1.0.1/cleave.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cleave.js/1.0.7/cleave.min.js"
     },
     {
       "name": "clickspark.js",
@@ -2303,6 +2319,10 @@
     {
       "name": "clientside-haml-js",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/clientside-haml-js/5.4/haml.min.js"
+    },
+    {
+      "name": "clipboard-polyfill",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/clipboard-polyfill/2.3.0/clipboard-polyfill.js"
     },
     {
       "name": "clipboard.js",
@@ -2334,7 +2354,7 @@
     },
     {
       "name": "clusterize.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.17.6/clusterize.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.18.0/clusterize.min.js"
     },
     {
       "name": "co",
@@ -2346,7 +2366,7 @@
     },
     {
       "name": "codemirror",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.30.0/codemirror.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.31.0/codemirror.min.js"
     },
     {
       "name": "coffee-script",
@@ -2438,7 +2458,7 @@
     },
     {
       "name": "ContentTools",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ContentTools/1.5.6/content-tools.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ContentTools/1.6.0/content-tools.min.js"
     },
     {
       "name": "convnetjs",
@@ -2446,7 +2466,7 @@
     },
     {
       "name": "cookie-banner",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cookie-banner/1.2.0/cookiebanner.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cookie-banner/1.2.1/cookiebanner.min.js"
     },
     {
       "name": "cookie.js",
@@ -2470,7 +2490,7 @@
     },
     {
       "name": "cookiesjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cookiesjs/1.4.2/cookies.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cookiesjs/2.0.0/cookies.min.js"
     },
     {
       "name": "CoolQueue.io",
@@ -2490,7 +2510,7 @@
     },
     {
       "name": "corejs-typeahead",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/corejs-typeahead/1.1.1/bloodhound.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/corejs-typeahead/1.2.1/bloodhound.min.js"
     },
     {
       "name": "corysimmons-selectivizr2",
@@ -2522,7 +2542,7 @@
     },
     {
       "name": "countup.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.9.2/countUp.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.9.3/countUp.min.js"
     },
     {
       "name": "covjson-reader",
@@ -2530,7 +2550,7 @@
     },
     {
       "name": "cplayer",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cplayer/3.1.5/cplayer.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cplayer/3.1.6/cplayer.js"
     },
     {
       "name": "crafty",
@@ -2550,11 +2570,11 @@
     },
     {
       "name": "cropper",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cropper/3.0.0/cropper.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cropper/3.1.3/cropper.min.js"
     },
     {
       "name": "cropperjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.0.0/cropper.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.1.3/cropper.min.js"
     },
     {
       "name": "croppic",
@@ -2562,7 +2582,7 @@
     },
     {
       "name": "croppie",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/croppie/2.5.0/croppie.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/croppie/2.5.1/croppie.min.js"
     },
     {
       "name": "crossfilter",
@@ -2657,6 +2677,10 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/cssx/5.2.1/cssx.min.js"
     },
     {
+      "name": "cta.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cta.js/0.3.2/cta.min.js"
+    },
+    {
       "name": "cubism",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/cubism/1.6.0/cubism.v1.min.js"
     },
@@ -2674,7 +2698,7 @@
     },
     {
       "name": "currency-flags",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/currency-flags/1.2.0/currency-flags.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/currency-flags/1.2.1/currency-flags.min.css"
     },
     {
       "name": "currencyformatter.js",
@@ -2686,7 +2710,7 @@
     },
     {
       "name": "custom-elements",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/custom-elements/1.0.4/custom-elements.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/custom-elements/1.0.6/custom-elements.min.js"
     },
     {
       "name": "custombox",
@@ -2718,11 +2742,11 @@
     },
     {
       "name": "cytoscape",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.3/cytoscape.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.6/cytoscape.min.js"
     },
     {
       "name": "d3-annotation",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.0.0/d3-annotation.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.1.0/d3-annotation.min.js"
     },
     {
       "name": "d3-array",
@@ -2762,7 +2786,7 @@
     },
     {
       "name": "d3-drag",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-drag/1.1.1/d3-drag.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-drag/1.2.1/d3-drag.min.js"
     },
     {
       "name": "d3-dsv",
@@ -2774,7 +2798,7 @@
     },
     {
       "name": "d3-force",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-force/1.0.6/d3-force.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-force/1.1.0/d3-force.min.js"
     },
     {
       "name": "d3-format",
@@ -2786,7 +2810,7 @@
     },
     {
       "name": "d3-geo",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-geo/1.7.1/d3-geo.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-geo/1.9.0/d3-geo.min.js"
     },
     {
       "name": "d3-hierarchy",
@@ -2798,7 +2822,7 @@
     },
     {
       "name": "d3-legend",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.0/d3-legend.min.js"
     },
     {
       "name": "d3-path",
@@ -2842,7 +2866,7 @@
     },
     {
       "name": "d3-time-format",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-time-format/2.0.5/d3-time-format.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-time-format/2.1.0/d3-time-format.min.js"
     },
     {
       "name": "d3-time",
@@ -2870,7 +2894,7 @@
     },
     {
       "name": "d3-zoom",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-zoom/1.5.0/d3-zoom.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3-zoom/1.7.1/d3-zoom.min.js"
     },
     {
       "name": "d3.chart",
@@ -2878,7 +2902,7 @@
     },
     {
       "name": "d3",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.2/d3.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.min.js"
     },
     {
       "name": "d3fc",
@@ -2930,7 +2954,7 @@
     },
     {
       "name": "dashjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dashjs/2.6.0/dash.all.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dashjs/2.6.3/dash.all.min.js"
     },
     {
       "name": "dat-gui",
@@ -2970,7 +2994,7 @@
     },
     {
       "name": "date-fns",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/date-fns/1.28.5/date_fns.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/date-fns/1.29.0/date_fns.min.js"
     },
     {
       "name": "datedropper",
@@ -2990,7 +3014,7 @@
     },
     {
       "name": "datepicker",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/datepicker/0.5.5/datepicker.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/datepicker/0.6.3/datepicker.min.js"
     },
     {
       "name": "davis.js",
@@ -2998,7 +3022,7 @@
     },
     {
       "name": "dc",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.8/dc.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.9/dc.min.js"
     },
     {
       "name": "dd_belatedpng",
@@ -3010,7 +3034,7 @@
     },
     {
       "name": "decimal.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/decimal.js/7.2.4/decimal.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/decimal.js/7.3.0/decimal.min.js"
     },
     {
       "name": "deck.js",
@@ -3022,7 +3046,7 @@
     },
     {
       "name": "deepstream.io-client-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/deepstream.io-client-js/2.2.1/deepstream.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/deepstream.io-client-js/2.3.0/deepstream.min.js"
     },
     {
       "name": "defiant.js",
@@ -3031,6 +3055,10 @@
     {
       "name": "depot",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/depot/0.1.6/depot.min.js"
+    },
+    {
+      "name": "design-system",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/design-system/2.4.5/styles/salesforce-lightning-design-system.min.css"
     },
     {
       "name": "detect_swipe",
@@ -3049,12 +3077,16 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/device.js/0.2.7/device.min.js"
     },
     {
+      "name": "devicon",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/devicon/2.2/devicon.min.css"
+    },
+    {
       "name": "devicons",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css"
     },
     {
       "name": "dexie",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dexie/2.0.0/dexie.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dexie/2.0.1/dexie.min.js"
     },
     {
       "name": "df-number-format",
@@ -3062,7 +3094,7 @@
     },
     {
       "name": "dflow",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dflow/0.23.0/dflow.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dflow/0.24.0/dflow.min.js"
     },
     {
       "name": "dialog-polyfill",
@@ -3074,7 +3106,7 @@
     },
     {
       "name": "diff2html",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/diff2html/2.3.0/diff2html.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/diff2html/2.3.2/diff2html.min.js"
     },
     {
       "name": "dimple",
@@ -3098,7 +3130,7 @@
     },
     {
       "name": "DisplayJS",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/DisplayJS/2.0.1/display.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/DisplayJS/2.1.2/display.min.js"
     },
     {
       "name": "distpicker",
@@ -3114,7 +3146,7 @@
     },
     {
       "name": "dna.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dna.js/1.3.0/dna.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dna.js/1.3.3/dna.min.js"
     },
     {
       "name": "docsearch.js",
@@ -3122,7 +3154,7 @@
     },
     {
       "name": "docsify",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/docsify/4.3.6/docsify.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/docsify/4.5.3/docsify.min.js"
     },
     {
       "name": "document-register-element",
@@ -3134,7 +3166,7 @@
     },
     {
       "name": "docxtemplater",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/docxtemplater/3.1.7/docxtemplater.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/docxtemplater/3.1.12/docxtemplater.min.js"
     },
     {
       "name": "dojo",
@@ -3146,7 +3178,7 @@
     },
     {
       "name": "dom-to-image",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.5.2/dom-to-image.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js"
     },
     {
       "name": "dom4",
@@ -3154,7 +3186,7 @@
     },
     {
       "name": "domainr-search-box",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/domainr-search-box/0.0.14/domainr-search-box.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/domainr-search-box/0.0.17/domainr-search-box.min.js"
     },
     {
       "name": "domplotter",
@@ -3178,7 +3210,7 @@
     },
     {
       "name": "doofinder",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/doofinder/5.1.7/doofinder.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/doofinder/5.1.9/doofinder.min.js"
     },
     {
       "name": "doony",
@@ -3194,19 +3226,23 @@
     },
     {
       "name": "dplayer",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dplayer/1.15.1/DPlayer.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dplayer/1.16.0/DPlayer.min.js"
     },
     {
       "name": "draft-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/draft-js/0.10.2/Draft.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/draft-js/0.10.4/Draft.min.js"
     },
     {
       "name": "dragdealer",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dragdealer/0.9.8/dragdealer.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dragdealer/0.9.9/dragdealer.min.js"
     },
     {
       "name": "draggabilly",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/draggabilly/2.1.1/draggabilly.pkgd.min.js"
+    },
+    {
+      "name": "draggable",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/draggable/1.0.0-beta.3/draggable.min.js"
     },
     {
       "name": "dragonbones",
@@ -3230,7 +3266,7 @@
     },
     {
       "name": "dropbox.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dropbox.js/2.5.9/Dropbox-sdk.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dropbox.js/2.5.12/Dropbox-sdk.min.js"
     },
     {
       "name": "dropdown.js",
@@ -3242,7 +3278,7 @@
     },
     {
       "name": "dropzone",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.1.1/min/dropzone.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.2.0/min/dropzone.min.js"
     },
     {
       "name": "dustjs-helpers",
@@ -3286,7 +3322,7 @@
     },
     {
       "name": "echarts",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/echarts/3.7.1/echarts.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/echarts/3.8.5/echarts.min.js"
     },
     {
       "name": "eddy",
@@ -3306,19 +3342,19 @@
     },
     {
       "name": "egjs-axes",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-axes/2.1.1/axes.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-axes/2.3.0/axes.min.js"
     },
     {
       "name": "egjs-component",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-component/2.0.0/component.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-component/2.1.0/component.min.js"
     },
     {
       "name": "egjs-flicking",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-flicking/2.0.3/flicking.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-flicking/2.1.0/flicking.min.js"
     },
     {
       "name": "egjs-infinitegrid",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-infinitegrid/2.1.0/infinitegrid.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-infinitegrid/2.1.1/infinitegrid.min.js"
     },
     {
       "name": "egjs-jquery-pauseresume",
@@ -3338,7 +3374,7 @@
     },
     {
       "name": "egjs-visible",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-visible/2.0.0/visible.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/egjs-visible/2.1.0/visible.min.js"
     },
     {
       "name": "egjs",
@@ -3346,7 +3382,7 @@
     },
     {
       "name": "ekko-lightbox",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.2.0/ekko-lightbox.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"
     },
     {
       "name": "elasticlunr",
@@ -3354,7 +3390,7 @@
     },
     {
       "name": "elasticsearch",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/elasticsearch/13.3.1/elasticsearch.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/elasticsearch/14.0.0/elasticsearch.min.js"
     },
     {
       "name": "eldarion-ajax",
@@ -3362,7 +3398,7 @@
     },
     {
       "name": "element-ui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/element-ui/1.4.5/index.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/element-ui/2.0.5/index.js"
     },
     {
       "name": "elemental",
@@ -3374,11 +3410,11 @@
     },
     {
       "name": "elevator.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/elevator.js/1.0.0/elevator.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/elevator.js/1.0.1/elevator.min.js"
     },
     {
       "name": "elfinder",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/elfinder/2.1.28/js/elfinder.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/elfinder/2.1.29/js/elfinder.min.js"
     },
     {
       "name": "elm-runtime",
@@ -3398,11 +3434,11 @@
     },
     {
       "name": "embedly-jquery",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/embedly-jquery/3.1.1/jquery.embedly.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/embedly-jquery/3.1.2/jquery.embedly.min.js"
     },
     {
       "name": "embedo",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/embedo/1.6.4/embedo.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/embedo/1.7.3/embedo.min.js"
     },
     {
       "name": "ember-auth",
@@ -3426,7 +3462,7 @@
     },
     {
       "name": "ember-data.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ember-data.js/2.14.11/ember-data.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ember-data.js/2.17.0/ember-data.min.js"
     },
     {
       "name": "ember-dialog",
@@ -3450,7 +3486,7 @@
     },
     {
       "name": "ember.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ember.js/2.15.0/ember.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ember.js/2.16.2/ember.min.js"
     },
     {
       "name": "emberFire",
@@ -3459,6 +3495,10 @@
     {
       "name": "emblem",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/emblem/0.4.0/emblem.min.js"
+    },
+    {
+      "name": "emergence.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/emergence.js/1.1.2/emergence.min.js"
     },
     {
       "name": "eModal",
@@ -3482,11 +3522,11 @@
     },
     {
       "name": "emojionearea",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.1.8/emojionearea.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.2.6/emojionearea.min.js"
     },
     {
       "name": "engine.io-client",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/engine.io-client/3.1.1/engine.io.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/engine.io-client/3.1.4/engine.io.min.js"
     },
     {
       "name": "enjoyhint",
@@ -3522,11 +3562,11 @@
     },
     {
       "name": "equalizecss",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/equalizecss/1.2.1/css/equalize.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/equalizecss/1.3.0/css/equalize.min.css"
     },
     {
       "name": "eruda",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/eruda/1.2.6/eruda.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/eruda/1.3.1/eruda.min.js"
     },
     {
       "name": "es-class",
@@ -3582,7 +3622,7 @@
     },
     {
       "name": "evaporate",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/evaporate/2.1.3/evaporate.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/evaporate/2.1.4/evaporate.min.js"
     },
     {
       "name": "eve.js",
@@ -3598,7 +3638,7 @@
     },
     {
       "name": "EventEmitter",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/EventEmitter/5.2.2/EventEmitter.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/EventEmitter/5.2.4/EventEmitter.min.js"
     },
     {
       "name": "eventemitter3",
@@ -3625,6 +3665,10 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/excel-builder/2.0.3/excel-builder.dist.min.js"
     },
     {
+      "name": "excel-formula",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/excel-formula/1.4.2/excel-formula.min.js"
+    },
+    {
       "name": "exif-js",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/exif-js/2.3.0/exif.min.js"
     },
@@ -3638,7 +3682,11 @@
     },
     {
       "name": "expr-eval",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/expr-eval/1.1.1/bundle.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/expr-eval/1.2.0/bundle.min.js"
+    },
+    {
+      "name": "expressive-annotations-validate",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/expressive-annotations-validate/2.7.4/expressive.annotations.validate.min.js"
     },
     {
       "name": "ext-core",
@@ -3654,7 +3702,7 @@
     },
     {
       "name": "fabric.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fabric.js/1.7.19/fabric.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fabric.js/1.7.20/fabric.min.js"
     },
     {
       "name": "fakeLoader.js",
@@ -3666,7 +3714,7 @@
     },
     {
       "name": "falcor",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/falcor/0.1.17/falcor.all.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/falcor/1.0.1/falcor.all.min.js"
     },
     {
       "name": "fallback",
@@ -3674,7 +3722,7 @@
     },
     {
       "name": "fancybox",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"
     },
     {
       "name": "fancyInput",
@@ -3682,7 +3730,7 @@
     },
     {
       "name": "fast-json-patch",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fast-json-patch/2.0.5/fast-json-patch.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fast-json-patch/2.0.6/fast-json-patch.min.js"
     },
     {
       "name": "fast-xml-parser",
@@ -3699,6 +3747,10 @@
     {
       "name": "fastdom",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/fastdom/1.0.6/fastdom.min.js"
+    },
+    {
+      "name": "fastselect",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fastselect/0.7.3/fastselect.min.js"
     },
     {
       "name": "fatcow-icons",
@@ -3719,6 +3771,10 @@
     {
       "name": "fdaciuk-ajax",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/fdaciuk-ajax/2.3.0/ajax.min.js"
+    },
+    {
+      "name": "feather-icons",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.0.0/feather.min.js"
     },
     {
       "name": "featherlight",
@@ -3774,7 +3830,7 @@
     },
     {
       "name": "file-uploader",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/file-uploader/5.15.0/fine-uploader.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/file-uploader/5.15.4/fine-uploader.min.js"
     },
     {
       "name": "FileSaver.js",
@@ -3782,7 +3838,7 @@
     },
     {
       "name": "filesize",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/filesize/3.5.10/filesize.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/filesize/3.5.11/filesize.min.js"
     },
     {
       "name": "filter.js",
@@ -3818,7 +3874,7 @@
     },
     {
       "name": "fixed-data-table",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fixed-data-table/0.6.4/fixed-data-table.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fixed-data-table/0.6.5/fixed-data-table.min.js"
     },
     {
       "name": "fixed-header-table",
@@ -3834,7 +3890,7 @@
     },
     {
       "name": "flag-icon-css",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.8.0/css/flag-icon.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.9.0/css/flag-icon.min.css"
     },
     {
       "name": "flagstrap",
@@ -3846,7 +3902,7 @@
     },
     {
       "name": "flatpickr",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/flatpickr/3.0.7/flatpickr.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.1.2/flatpickr.min.js"
     },
     {
       "name": "flex-layout-attribute",
@@ -3942,11 +3998,15 @@
     },
     {
       "name": "flowplayer",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.0.4/flowplayer.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.2.1/flowplayer.min.js"
     },
     {
       "name": "Flowtype.js",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/Flowtype.js/1.1.0/flowtype.min.js"
+    },
+    {
+      "name": "flubber",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/flubber/0.4.0/flubber.min.js"
     },
     {
       "name": "fluidbox",
@@ -3974,7 +4034,7 @@
     },
     {
       "name": "font-awesome-animation",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.0.10/font-awesome-animation.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.1.0/font-awesome-animation.min.css"
     },
     {
       "name": "font-awesome",
@@ -4026,7 +4086,7 @@
     },
     {
       "name": "formstone",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/formstone/1.4.0/js/core.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/formstone/1.4.1/js/core.js"
     },
     {
       "name": "formsy-react",
@@ -4073,8 +4133,12 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/framework7/1.6.5/js/framework7.min.js"
     },
     {
+      "name": "frappe-charts",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/frappe-charts/0.0.6/frappe-charts.min.css"
+    },
+    {
       "name": "free-jqgrid",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/free-jqgrid/4.15.0/jquery.jqgrid.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/free-jqgrid/4.15.2/jquery.jqgrid.min.js"
     },
     {
       "name": "freewall",
@@ -4085,8 +4149,12 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/freezer-js/0.13.0/freezer.min.js"
     },
     {
+      "name": "froala-design-blocks",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/froala-design-blocks/1.0.1/css/froala_blocks.min.css"
+    },
+    {
       "name": "froala-editor",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/froala-editor/2.7.0/js/froala_editor.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/froala-editor/2.7.1/js/froala_editor.min.js"
     },
     {
       "name": "frontpress",
@@ -4118,7 +4186,7 @@
     },
     {
       "name": "fuelux",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fuelux/3.16.1/js/fuelux.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fuelux/3.16.3/js/fuelux.min.js"
     },
     {
       "name": "fukol-grids",
@@ -4126,11 +4194,11 @@
     },
     {
       "name": "fullcalendar",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.5.1/fullcalendar.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.7.0/fullcalendar.min.js"
     },
     {
       "name": "fullPage.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.5/jquery.fullpage.min.css"
     },
     {
       "name": "function-plot",
@@ -4146,7 +4214,7 @@
     },
     {
       "name": "fuse.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.1.0/fuse.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"
     },
     {
       "name": "fuzzyset.js",
@@ -4158,7 +4226,7 @@
     },
     {
       "name": "ga-lite",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ga-lite/1.1.4/ga-lite.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ga-lite/2.0.1/ga-lite.min.js"
     },
     {
       "name": "galleria",
@@ -4194,7 +4262,7 @@
     },
     {
       "name": "gentelella",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gentelella/1.3.0/js/custom.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gentelella/1.4.0/js/custom.min.js"
     },
     {
       "name": "geo-location-javascript",
@@ -4210,7 +4278,7 @@
     },
     {
       "name": "geojs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/geojs/0.12.4/geo.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/geojs/0.13.0/geo.min.js"
     },
     {
       "name": "geojson2svg",
@@ -4225,6 +4293,10 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/geopattern/1.2.3/js/geopattern.min.js"
     },
     {
+      "name": "gettext.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gettext.js/0.5.4/gettext.min.js"
+    },
+    {
       "name": "gh.js",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/gh.js/3.0.11/gh.min.js"
     },
@@ -4237,12 +4309,20 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/gibon/0.4.1/gibon.umd.js"
     },
     {
+      "name": "gif.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gif.js/0.2.0/gif.js"
+    },
+    {
       "name": "gifffer",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/gifffer/1.5.0/gifffer.min.js"
     },
     {
       "name": "gifshot",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/gifshot/0.3.2/gifshot.min.js"
+    },
+    {
+      "name": "gijgo",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gijgo/1.6.1/combined/js/gijgo.min.js"
     },
     {
       "name": "gillie",
@@ -4262,7 +4342,7 @@
     },
     {
       "name": "github-calendar",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/github-calendar/1.1.13/github-calendar.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/github-calendar/1.2.0/github-calendar.min.js"
     },
     {
       "name": "github-fork-ribbon-css",
@@ -4270,7 +4350,7 @@
     },
     {
       "name": "github-markdown-css",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.8.0/github-markdown.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.9.0/github-markdown.min.css"
     },
     {
       "name": "github-org-members.js",
@@ -4282,7 +4362,7 @@
     },
     {
       "name": "gitter-sidecar",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gitter-sidecar/1.2.4/sidecar.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gitter-sidecar/1.3.2/sidecar.js"
     },
     {
       "name": "gl-matrix",
@@ -4290,7 +4370,7 @@
     },
     {
       "name": "glamorous",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/glamorous/4.9.5/glamorous.umd.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/glamorous/4.11.0/glamorous.umd.min.js"
     },
     {
       "name": "Glide.js",
@@ -4306,7 +4386,7 @@
     },
     {
       "name": "gmail-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gmail-js/0.6.11/gmail.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gmail-js/0.6.12/gmail.min.js"
     },
     {
       "name": "gmap3",
@@ -4321,12 +4401,16 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/gmaps4rails/2.1.2/gmaps4rails.min.js"
     },
     {
+      "name": "goalProgress",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/goalProgress/1.0/goalProgress.min.js"
+    },
+    {
       "name": "godlike.css",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/godlike.css/3.5.6/godlike.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/godlike.css/3.5.8/godlike.min.css"
     },
     {
       "name": "gojs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gojs/1.7.25/go.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gojs/1.8.2/go.js"
     },
     {
       "name": "golden-layout",
@@ -4334,7 +4418,7 @@
     },
     {
       "name": "goodshare.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/goodshare.js/4.0.7/goodshare.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/goodshare.js/4.0.9/goodshare.min.js"
     },
     {
       "name": "gorillascript",
@@ -4358,7 +4442,7 @@
     },
     {
       "name": "grapesjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/grapesjs/0.10.7/grapes.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/grapesjs/0.12.37/grapes.min.js"
     },
     {
       "name": "graphael",
@@ -4370,11 +4454,11 @@
     },
     {
       "name": "graphicsjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/graphicsjs/1.3.0/graphics.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/graphicsjs/1.3.1/graphics.min.js"
     },
     {
       "name": "graphiql",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/graphiql/0.11.5/graphiql.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/graphiql/0.11.10/graphiql.min.js"
     },
     {
       "name": "grd",
@@ -4402,7 +4486,7 @@
     },
     {
       "name": "gridlex",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.6.0/gridlex.min.css"
     },
     {
       "name": "gridly",
@@ -4418,11 +4502,11 @@
     },
     {
       "name": "grommet",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/grommet/1.7.0/grommet.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/grommet/1.9.0/grommet.min.js"
     },
     {
       "name": "gsap",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"
     },
     {
       "name": "gss-engine",
@@ -4486,11 +4570,11 @@
     },
     {
       "name": "handlebars.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"
     },
     {
       "name": "handsontable",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/handsontable/0.34.4/handsontable.full.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/handsontable/0.34.5/handsontable.full.min.js"
     },
     {
       "name": "hasher",
@@ -4554,7 +4638,7 @@
     },
     {
       "name": "highcharts",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/highcharts/5.0.14/highcharts.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.3/highcharts.js"
     },
     {
       "name": "highchartTable",
@@ -4578,11 +4662,11 @@
     },
     {
       "name": "highmaps",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/highmaps/5.0.14/highmaps.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/highmaps/6.0.3/highmaps.js"
     },
     {
       "name": "highstock",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/highstock/5.0.14/highstock.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/highstock/6.0.3/highstock.js"
     },
     {
       "name": "hinclude",
@@ -4606,7 +4690,7 @@
     },
     {
       "name": "hls.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.8.2/hls.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.8.7/hls.min.js"
     },
     {
       "name": "hogan.js",
@@ -4614,11 +4698,11 @@
     },
     {
       "name": "hola_player",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hola_player/1.0.99/hola_player.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hola_player/1.0.116/hola_player.js"
     },
     {
       "name": "hola-video.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hola-video.js/5.10.2-25/video.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hola-video.js/5.10.2-27/video.min.js"
     },
     {
       "name": "holder",
@@ -4646,11 +4730,15 @@
     },
     {
       "name": "howler",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.4/howler.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.5/howler.min.js"
     },
     {
       "name": "hprose-html5",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/hprose-html5/2.0.35/hprose-html5.js"
+    },
+    {
+      "name": "hrjs",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hrjs/1.0.2/hr.min.js"
     },
     {
       "name": "html-gl",
@@ -4662,7 +4750,7 @@
     },
     {
       "name": "html-minifier",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/html-minifier/3.5.5/htmlminifier.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/html-minifier/3.5.6/htmlminifier.min.js"
     },
     {
       "name": "html.js",
@@ -4706,7 +4794,7 @@
     },
     {
       "name": "humanize-duration",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/humanize-duration/3.10.1/humanize-duration.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/humanize-duration/3.12.0/humanize-duration.min.js"
     },
     {
       "name": "humanize-plus",
@@ -4726,19 +4814,19 @@
     },
     {
       "name": "hyperapp",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hyperapp/0.12.1/hyperapp.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hyperapp/0.16.0/hyperapp.js"
     },
     {
       "name": "hyperform",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hyperform/0.9.6/hyperform.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/hyperform/0.9.9/hyperform.min.js"
     },
     {
       "name": "Hyphenator",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Hyphenator/5.2.1/Hyphenator.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Hyphenator/5.3.0/Hyphenator.min.js"
     },
     {
       "name": "i18next-browser-languagedetector",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/i18next-browser-languagedetector/2.0.0/i18nextBrowserLanguageDetector.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/i18next-browser-languagedetector/2.1.0/i18nextBrowserLanguageDetector.min.js"
     },
     {
       "name": "i18next-locize-backend",
@@ -4746,11 +4834,11 @@
     },
     {
       "name": "i18next-xhr-backend",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/i18next-xhr-backend/1.4.3/i18nextXHRBackend.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/i18next-xhr-backend/1.5.0/i18nextXHRBackend.min.js"
     },
     {
       "name": "i18next",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/i18next/9.0.0/i18next.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/i18next/10.0.7/i18next.min.js"
     },
     {
       "name": "i3d3",
@@ -4797,6 +4885,10 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/identicon.js/2.3.1/identicon.min.js"
     },
     {
+      "name": "ie-love",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ie-love/0.0.3/ie-love.min.js"
+    },
+    {
       "name": "ie8",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/ie8/0.7.1/ie8.js"
     },
@@ -4810,7 +4902,7 @@
     },
     {
       "name": "iframe-resizer",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.14/iframeResizer.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.15/iframeResizer.min.js"
     },
     {
       "name": "ifvisible",
@@ -4846,7 +4938,7 @@
     },
     {
       "name": "imageviewer",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/imageviewer/0.5.1/viewer.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/imageviewer/0.6.0/viewer.min.js"
     },
     {
       "name": "imagine.js",
@@ -4866,7 +4958,7 @@
     },
     {
       "name": "immutable",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/immutable/3.8.1/immutable.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/immutable/3.8.2/immutable.min.js"
     },
     {
       "name": "impress.js",
@@ -4890,51 +4982,51 @@
     },
     {
       "name": "inferno-compat",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-compat/3.9.0/inferno-compat.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-compat/3.10.1/inferno-compat.min.js"
     },
     {
       "name": "inferno-component",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-component/3.9.0/inferno-component.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-component/3.10.1/inferno-component.min.js"
     },
     {
       "name": "inferno-create-class",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-create-class/3.9.0/inferno-create-class.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-create-class/3.10.1/inferno-create-class.min.js"
     },
     {
       "name": "inferno-create-element",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-create-element/3.9.0/inferno-create-element.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-create-element/3.10.1/inferno-create-element.min.js"
     },
     {
       "name": "inferno-devtools",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-devtools/3.9.0/inferno-devtools.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-devtools/3.10.1/inferno-devtools.min.js"
     },
     {
       "name": "inferno-hyperscript",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-hyperscript/3.9.0/inferno-hyperscript.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-hyperscript/3.10.1/inferno-hyperscript.min.js"
     },
     {
       "name": "inferno-mobx",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-mobx/3.9.0/inferno-mobx.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-mobx/3.10.1/inferno-mobx.min.js"
     },
     {
       "name": "inferno-redux",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-redux/3.9.0/inferno-redux.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-redux/3.10.1/inferno-redux.min.js"
     },
     {
       "name": "inferno-router",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-router/3.9.0/inferno-router.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-router/3.10.1/inferno-router.min.js"
     },
     {
       "name": "inferno-server",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-server/3.9.0/inferno-server.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-server/3.10.1/inferno-server.min.js"
     },
     {
       "name": "inferno-shared",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-shared/3.9.0/inferno-shared.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-shared/3.10.1/inferno-shared.min.js"
     },
     {
       "name": "inferno-test-utils",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-test-utils/3.9.0/inferno-test-utils.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno-test-utils/3.10.1/inferno-test-utils.min.js"
     },
     {
       "name": "inferno-vnode-flags",
@@ -4942,7 +5034,7 @@
     },
     {
       "name": "inferno",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno/3.9.0/inferno.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inferno/3.10.1/inferno.min.js"
     },
     {
       "name": "infieldLabel",
@@ -4978,7 +5070,7 @@
     },
     {
       "name": "inspire-tree",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inspire-tree/3.0.1/inspire-tree.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/inspire-tree/4.0.1/inspire-tree.min.js"
     },
     {
       "name": "instafeed.js",
@@ -4986,7 +5078,7 @@
     },
     {
       "name": "instafetch.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/instafetch.js/1.3.0/instafetch.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/instafetch.js/1.4.0/instafetch.min.js"
     },
     {
       "name": "instagram-lite",
@@ -4998,11 +5090,11 @@
     },
     {
       "name": "instantsearch.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.1.4/instantsearch.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.2.4/instantsearch.min.js"
     },
     {
       "name": "intense-images",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/intense-images/1.0.5/intense.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/intense-images/1.0.7/intense.min.js"
     },
     {
       "name": "interact.js",
@@ -5018,7 +5110,7 @@
     },
     {
       "name": "intercooler-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/intercooler-js/1.1.2/intercooler.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/intercooler-js/1.2.0/intercooler.min.js"
     },
     {
       "name": "interpolate.js",
@@ -5026,7 +5118,7 @@
     },
     {
       "name": "intl-tel-input",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.0.3/js/intlTelInput.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.1.4/js/intlTelInput.min.js"
     },
     {
       "name": "intro.js",
@@ -5066,11 +5158,11 @@
     },
     {
       "name": "ionicons",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.0.0-6/css/ionicons.min.css"
     },
     {
       "name": "ipaddr.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ipaddr.js/1.5.2/ipaddr.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ipaddr.js/1.5.4/ipaddr.min.js"
     },
     {
       "name": "ipfs",
@@ -5098,7 +5190,7 @@
     },
     {
       "name": "iview",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/iview/2.3.2/iview.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/iview/2.7.3/iview.min.js"
     },
     {
       "name": "iviewer",
@@ -5110,7 +5202,7 @@
     },
     {
       "name": "izimodal",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.0/js/iziModal.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/js/iziModal.min.js"
     },
     {
       "name": "izitoast",
@@ -5122,7 +5214,7 @@
     },
     {
       "name": "jarallax",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.8.0/jarallax.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.9.1/jarallax.min.js"
     },
     {
       "name": "jasmine-ajax",
@@ -5178,7 +5270,7 @@
     },
     {
       "name": "jBox",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jBox/0.4.8/jBox.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jBox/0.4.9/jBox.min.js"
     },
     {
       "name": "jcalculator",
@@ -5186,7 +5278,7 @@
     },
     {
       "name": "jcanvas",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jcanvas/20.1.2/min/jcanvas.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jcanvas/20.1.4/min/jcanvas.min.js"
     },
     {
       "name": "jcarousel",
@@ -5195,6 +5287,10 @@
     {
       "name": "jcf",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/jcf/1.2.3/js/jcf.js"
+    },
+    {
+      "name": "jclic.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jclic.js/1.0.1/jclic.min.js"
     },
     {
       "name": "jed",
@@ -5250,11 +5346,11 @@
     },
     {
       "name": "jodit",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jodit/3.0.31/jodit.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jodit/3.0.35/jodit.min.js"
     },
     {
       "name": "jointjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jointjs/1.1.0/joint.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jointjs/2.0.1/joint.min.js"
     },
     {
       "name": "joopl",
@@ -5314,11 +5410,15 @@
     },
     {
       "name": "jqtree",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jqtree/1.4.2/tree.jquery.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jqtree/1.4.3/tree.jquery.min.js"
     },
     {
       "name": "jquery_lazyload",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery_lazyload/1.9.7/jquery.lazyload.min.js"
+    },
+    {
+      "name": "jquery-advanced-news-ticker",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-advanced-news-ticker/1.0.1/js/newsTicker.min.js"
     },
     {
       "name": "jquery-ajaxchimp",
@@ -5410,7 +5510,7 @@
     },
     {
       "name": "jquery-contextmenu",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-contextmenu/2.6.2/jquery.contextMenu.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-contextmenu/2.6.3/jquery.contextMenu.min.js"
     },
     {
       "name": "jquery-cookie",
@@ -5446,7 +5546,7 @@
     },
     {
       "name": "jquery-datetimepicker",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.4/jquery.datetimepicker.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.12/jquery.datetimepicker.full.min.js"
     },
     {
       "name": "jquery-details",
@@ -5630,7 +5730,7 @@
     },
     {
       "name": "jquery-migrate",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.0.0/jquery-migrate.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.0.1/jquery-migrate.min.js"
     },
     {
       "name": "jquery-minicolors",
@@ -5650,7 +5750,7 @@
     },
     {
       "name": "jquery-modal",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.8.2/jquery.modal.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"
     },
     {
       "name": "jquery-mosaic",
@@ -5866,11 +5966,15 @@
     },
     {
       "name": "jquery-toast-plugin",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-toast-plugin/1.3.1/jquery.toast.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-toast-plugin/1.3.2/jquery.toast.min.js"
     },
     {
       "name": "jquery-toggles",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-toggles/2.0.4/toggles.min.js"
+    },
+    {
+      "name": "jquery-tokeninput",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-tokeninput/1.7.0/jquery.tokeninput.min.js"
     },
     {
       "name": "jquery-tools",
@@ -5938,7 +6042,7 @@
     },
     {
       "name": "jQuery-viewport-checker",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery-viewport-checker/1.8.7/jquery.viewportchecker.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery-viewport-checker/1.8.8/jquery.viewportchecker.min.js"
     },
     {
       "name": "jquery-visibility",
@@ -5958,7 +6062,7 @@
     },
     {
       "name": "jquery-weui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-weui/1.0.1/js/jquery-weui.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery-weui/1.1.1/js/jquery-weui.min.js"
     },
     {
       "name": "jquery-xmlrpc",
@@ -6070,7 +6174,7 @@
     },
     {
       "name": "jquery.devbridge-autocomplete",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.devbridge-autocomplete/1.4.3/jquery.autocomplete.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.devbridge-autocomplete/1.4.4/jquery.autocomplete.min.js"
     },
     {
       "name": "jquery.dirtyforms.dialogs.blockui",
@@ -6110,7 +6214,7 @@
     },
     {
       "name": "jQuery.dotdotdot",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.dotdotdot/3.0.2/jquery.dotdotdot.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.dotdotdot/3.1.0/jquery.dotdotdot.js"
     },
     {
       "name": "jquery.downCount",
@@ -6126,7 +6230,7 @@
     },
     {
       "name": "jquery.fancytree",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.24.0/jquery.fancytree-all.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.26.0/jquery.fancytree-all.min.js"
     },
     {
       "name": "jquery.fileDownload",
@@ -6151,6 +6255,10 @@
     {
       "name": "jquery.formset",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.formset/1.2.2/jquery.formset.min.js"
+    },
+    {
+      "name": "jQuery.Gantt",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.Gantt/1.1.0/js/jquery.fn.gantt.min.js"
     },
     {
       "name": "jquery.googlemap",
@@ -6218,7 +6326,7 @@
     },
     {
       "name": "jquery.lazy",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.5/jquery.lazy.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.6/jquery.lazy.min.js"
     },
     {
       "name": "jquery.lazyload",
@@ -6242,11 +6350,11 @@
     },
     {
       "name": "jQuery.Marquee",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.Marquee/1.3.94/jquery.marquee.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.Marquee/1.5.0/jquery.marquee.min.js"
     },
     {
       "name": "jquery.mask",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.12/jquery.mask.min.js"
     },
     {
       "name": "jquery.maskedinput",
@@ -6262,7 +6370,7 @@
     },
     {
       "name": "jquery.mb.YTPlayer",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.0.20/jquery.mb.YTPlayer.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.1.2/jquery.mb.YTPlayer.min.js"
     },
     {
       "name": "jquery.meiomask",
@@ -6270,7 +6378,7 @@
     },
     {
       "name": "jQuery.mmenu",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.7/jquery.mmenu.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.8/jquery.mmenu.js"
     },
     {
       "name": "jquery.mobilephonenumber",
@@ -6278,7 +6386,7 @@
     },
     {
       "name": "jQuery.my",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.my/1.2.10/jquerymy.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.my/1.2.12/jquerymy.min.js"
     },
     {
       "name": "jquery.nanoscroller",
@@ -6446,7 +6554,7 @@
     },
     {
       "name": "jquery.tablesorter",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.28.15/js/jquery.tablesorter.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.29.0/js/jquery.tablesorter.min.js"
     },
     {
       "name": "jquery.tabslet.js",
@@ -6454,7 +6562,7 @@
     },
     {
       "name": "jquery.terminal",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.terminal/1.7.2/js/jquery.terminal.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jquery.terminal/1.10.1/js/jquery.terminal.min.js"
     },
     {
       "name": "jquery.textcomplete",
@@ -6542,7 +6650,7 @@
     },
     {
       "name": "js-beautify",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.7.3/beautify.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.7.4/beautify.min.js"
     },
     {
       "name": "js-bson",
@@ -6550,7 +6658,7 @@
     },
     {
       "name": "js-cookie",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"
     },
     {
       "name": "js-data-angular",
@@ -6578,7 +6686,7 @@
     },
     {
       "name": "js-joda",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-joda/1.6.1/js-joda.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-joda/1.6.2/js-joda.min.js"
     },
     {
       "name": "js-marker-clusterer",
@@ -6590,7 +6698,7 @@
     },
     {
       "name": "js-polyfills",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-polyfills/0.1.34/polyfill.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-polyfills/0.1.41/polyfill.min.js"
     },
     {
       "name": "js-scrypt",
@@ -6602,11 +6710,11 @@
     },
     {
       "name": "js-sha1",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-sha1/0.4.1/sha1.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-sha1/0.5.0/sha1.min.js"
     },
     {
       "name": "js-sha256",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-sha256/0.6.0/sha256.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-sha256/0.8.0/sha256.min.js"
     },
     {
       "name": "js-sha3",
@@ -6614,7 +6722,7 @@
     },
     {
       "name": "js-sha512",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-sha512/0.4.0/sha512.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/js-sha512/0.7.0/sha512.min.js"
     },
     {
       "name": "js-signals",
@@ -6646,7 +6754,7 @@
     },
     {
       "name": "jschardet",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jschardet/1.5.0/jschardet.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jschardet/1.6.0/jschardet.min.js"
     },
     {
       "name": "jscolor",
@@ -6662,11 +6770,11 @@
     },
     {
       "name": "jsdiff",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsdiff/3.3.1/diff.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsdiff/3.4.0/diff.min.js"
     },
     {
       "name": "jsel",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsel/1.1.4/jsel.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsel/1.1.6/jsel.min.js"
     },
     {
       "name": "jsencrypt",
@@ -6706,7 +6814,7 @@
     },
     {
       "name": "jsmediatags",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.7.0/jsmediatags.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.8.1/jsmediatags.min.js"
     },
     {
       "name": "jsmpeg",
@@ -6718,7 +6826,7 @@
     },
     {
       "name": "jsnlog",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsnlog/2.24.1/jsnlog.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsnlog/2.24.3/jsnlog.min.js"
     },
     {
       "name": "json-editor",
@@ -6729,12 +6837,16 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/json-formatter/0.6.0/json-formatter.min.js"
     },
     {
+      "name": "json-forms",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/json-forms/1.6.3/js/brutusin-json-forms.min.js"
+    },
+    {
       "name": "json-mask",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/json-mask/0.3.8/jsonMask.min.js"
     },
     {
       "name": "json-schema-faker",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/json-schema-faker/0.4.3/json-schema-faker.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/json-schema-faker/0.4.6/json-schema-faker.min.js"
     },
     {
       "name": "json2",
@@ -6754,11 +6866,11 @@
     },
     {
       "name": "jsondiffpatch",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsondiffpatch/0.2.4/jsondiffpatch.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsondiffpatch/0.2.5/jsondiffpatch.min.js"
     },
     {
       "name": "jsoneditor",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsoneditor/5.9.6/jsoneditor.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsoneditor/5.10.1/jsoneditor.min.js"
     },
     {
       "name": "jsonld",
@@ -6770,7 +6882,7 @@
     },
     {
       "name": "jspanel3",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jspanel3/3.10.0/jquery.jspanel.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jspanel3/3.11.0/jquery.jspanel.min.js"
     },
     {
       "name": "jspdf-autotable",
@@ -6782,11 +6894,11 @@
     },
     {
       "name": "jsPlumb",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.2.9/jsplumb.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.5.7/js/jsplumb.min.js"
     },
     {
       "name": "jsrender",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsrender/0.9.88/jsrender.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsrender/0.9.89/jsrender.min.js"
     },
     {
       "name": "jsrsasign",
@@ -6794,7 +6906,7 @@
     },
     {
       "name": "jss",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jss/8.1.0/jss.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jss/9.3.3/jss.min.js"
     },
     {
       "name": "jsSHA",
@@ -6802,7 +6914,7 @@
     },
     {
       "name": "jssip",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jssip/3.0.15/jssip.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jssip/3.1.1/jssip.min.js"
     },
     {
       "name": "jsSocials",
@@ -6810,11 +6922,11 @@
     },
     {
       "name": "jssor-slider",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jssor-slider/26.1.5/jssor.slider.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jssor-slider/26.5.2/jssor.slider.min.js"
     },
     {
       "name": "jstat",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jstat/1.7.0/jstat.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jstat/1.7.1/jstat.min.js"
     },
     {
       "name": "jstimezonedetect",
@@ -6830,7 +6942,7 @@
     },
     {
       "name": "jstreegrid",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jstreegrid/3.9.0/jstreegrid.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jstreegrid/3.9.1/jstreegrid.min.js"
     },
     {
       "name": "jsts",
@@ -6842,7 +6954,7 @@
     },
     {
       "name": "jsviews",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsviews/0.9.88/jsviews.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jsviews/0.9.89/jsviews.min.js"
     },
     {
       "name": "jsxgraph",
@@ -6854,7 +6966,7 @@
     },
     {
       "name": "jszip",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.4/jszip.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js"
     },
     {
       "name": "juicer",
@@ -6890,7 +7002,7 @@
     },
     {
       "name": "Kalendae",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Kalendae/0.6.1/kalendae.standalone.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Kalendae/0.7.1/kalendae.standalone.min.js"
     },
     {
       "name": "kartograph-js",
@@ -6902,11 +7014,11 @@
     },
     {
       "name": "keen-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/keen-js/4.1.0/keen.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/keen-js/4.3.0/keen.min.js"
     },
     {
       "name": "kefir",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/kefir/3.7.4/kefir.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/kefir/3.8.0/kefir.min.js"
     },
     {
       "name": "kendo-ui-core",
@@ -6922,7 +7034,7 @@
     },
     {
       "name": "keyboardjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/keyboardjs/2.3.4/keyboard.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/keyboardjs/2.4.1/keyboard.min.js"
     },
     {
       "name": "keydrown",
@@ -6982,7 +7094,7 @@
     },
     {
       "name": "knockout-dragdrop",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/knockout-dragdrop/2.6.0/knockout.dragdrop.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/knockout-dragdrop/2.6.1/knockout.dragdrop.min.js"
     },
     {
       "name": "knockout-es5",
@@ -7022,11 +7134,11 @@
     },
     {
       "name": "knuth-shuffle",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/knuth-shuffle/1.0.1/index.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/knuth-shuffle/1.0.8/index.min.js"
     },
     {
       "name": "konva",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/konva/1.6.8/konva.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/konva/1.7.6/konva.min.js"
     },
     {
       "name": "koto",
@@ -7046,7 +7158,7 @@
     },
     {
       "name": "kule.lazy",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/kule.lazy/3.1.170618/css/kule-lazy.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/kule.lazy/3.1.171101/css/kule-lazy.min.css"
     },
     {
       "name": "kurento-client",
@@ -7086,11 +7198,15 @@
     },
     {
       "name": "Ladda",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Ladda/1.0.4/ladda.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Ladda/1.0.5/ladda.min.js"
     },
     {
       "name": "lamb",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/lamb/0.54.0/lamb.min.js"
+    },
+    {
+      "name": "lamejs",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lamejs/1.2.0/lame.min.js"
     },
     {
       "name": "later",
@@ -7126,7 +7242,7 @@
     },
     {
       "name": "lazysizes",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/3.0.0/lazysizes.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.0.1/lazysizes.min.js"
     },
     {
       "name": "lazyyt",
@@ -7194,11 +7310,11 @@
     },
     {
       "name": "leaflet-realtime",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/leaflet-realtime/2.1.0/leaflet-realtime.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/leaflet-realtime/2.1.1/leaflet-realtime.min.js"
     },
     {
       "name": "leaflet-routing-machine",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/leaflet-routing-machine/3.2.5/leaflet-routing-machine.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/leaflet-routing-machine/3.2.7/leaflet-routing-machine.min.js"
     },
     {
       "name": "leaflet-tilelayer-geojson",
@@ -7218,11 +7334,11 @@
     },
     {
       "name": "leaflet.draw",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.4.12/leaflet.draw.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.4.13/leaflet.draw.js"
     },
     {
       "name": "Leaflet.EasyButton",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Leaflet.EasyButton/2.2.2/easy-button.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Leaflet.EasyButton/2.2.4/easy-button.min.js"
     },
     {
       "name": "leaflet.freedraw",
@@ -7238,7 +7354,7 @@
     },
     {
       "name": "leaflet.markercluster",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.2.0/leaflet.markercluster.js"
     },
     {
       "name": "leaflet.pm",
@@ -7270,7 +7386,7 @@
     },
     {
       "name": "less.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/less.js/2.7.2/less.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/less.js/2.7.3/less.min.js"
     },
     {
       "name": "lethargy",
@@ -7298,7 +7414,7 @@
     },
     {
       "name": "lg-hash",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lg-hash/1.0.2/lg-hash.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lg-hash/1.0.3/lg-hash.min.js"
     },
     {
       "name": "lg-pager",
@@ -7306,7 +7422,7 @@
     },
     {
       "name": "lg-share",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lg-share/1.0.2/lg-share.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lg-share/1.1.0/lg-share.min.js"
     },
     {
       "name": "lg-thumbnail",
@@ -7314,7 +7430,7 @@
     },
     {
       "name": "lg-video",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lg-video/1.1.0/lg-video.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lg-video/1.2.0/lg-video.min.js"
     },
     {
       "name": "lg-zoom",
@@ -7326,11 +7442,11 @@
     },
     {
       "name": "libphonenumber-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/libphonenumber-js/0.4.31/libphonenumber-js.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/libphonenumber-js/0.4.40/libphonenumber-js.min.js"
     },
     {
       "name": "libphonenumber",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/libphonenumber/8.8.2/phonenumberutil.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/libphonenumber/8.8.6/phonenumberutil.min.js"
     },
     {
       "name": "libsodium-wrappers",
@@ -7354,7 +7470,7 @@
     },
     {
       "name": "lightgallery",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.1/js/lightgallery.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.5/js/lightgallery.min.js"
     },
     {
       "name": "lightslider",
@@ -7362,7 +7478,7 @@
     },
     {
       "name": "limonte-sweetalert2",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.9.1/sweetalert2.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.0.0/sweetalert2.min.js"
     },
     {
       "name": "line-chart",
@@ -7430,7 +7546,7 @@
     },
     {
       "name": "localforage",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/localforage/1.5.0/localforage.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/localforage/1.5.3/localforage.min.js"
     },
     {
       "name": "localStorage",
@@ -7462,7 +7578,7 @@
     },
     {
       "name": "loglevel",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/loglevel/1.5.0/loglevel.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/loglevel/1.6.0/loglevel.min.js"
     },
     {
       "name": "LogosDistort",
@@ -7470,7 +7586,7 @@
     },
     {
       "name": "lokijs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lokijs/1.5.0/lokijs.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lokijs/1.5.1/lokijs.min.js"
     },
     {
       "name": "lory.js",
@@ -7487,6 +7603,10 @@
     {
       "name": "lowdb",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/lowdb/1.0.0/low.min.js"
+    },
+    {
+      "name": "lozad.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.0.9/lozad.min.js"
     },
     {
       "name": "lrsjng.jquery-qrcode",
@@ -7506,11 +7626,11 @@
     },
     {
       "name": "lumx",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lumx/1.5.31/lumx.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lumx/1.6.18/lumx.min.js"
     },
     {
       "name": "lunr.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.1.3/lunr.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.1.4/lunr.min.js"
     },
     {
       "name": "lz-string",
@@ -7554,11 +7674,11 @@
     },
     {
       "name": "mammoth",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.4.2/mammoth.browser.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.4.3/mammoth.browser.min.js"
     },
     {
       "name": "mapbox-gl",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mapbox-gl/0.40.1/mapbox-gl.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mapbox-gl/0.42.1/mapbox-gl.js"
     },
     {
       "name": "maphilight",
@@ -7574,7 +7694,7 @@
     },
     {
       "name": "maquette",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/maquette/2.5.4/maquette.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/maquette/3.0.1/maquette.umd.min.js"
     },
     {
       "name": "marginotes",
@@ -7634,7 +7754,7 @@
     },
     {
       "name": "material-design-icons",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/maps/svg/production/ic_beenhere_24px.svg"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css"
     },
     {
       "name": "material-design-lite",
@@ -7666,7 +7786,7 @@
     },
     {
       "name": "mathjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.16.3/math.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.17.0/math.min.js"
     },
     {
       "name": "mathquill",
@@ -7686,7 +7806,7 @@
     },
     {
       "name": "mdbootstrap",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.1/js/mdb.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.3/js/mdb.min.js"
     },
     {
       "name": "mdui",
@@ -7694,11 +7814,11 @@
     },
     {
       "name": "mediaelement-plugins",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.4.0/markers/markers.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.0/markers/markers.min.js"
     },
     {
       "name": "mediaelement",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.6/mediaelement.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.7/mediaelement.min.js"
     },
     {
       "name": "medium-editor-custom-html",
@@ -7730,7 +7850,7 @@
     },
     {
       "name": "mermaid",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.0.0/mermaid.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.1.0/mermaid.min.js"
     },
     {
       "name": "meshki",
@@ -7746,7 +7866,7 @@
     },
     {
       "name": "metisMenu",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/metisMenu/2.7.0/metisMenu.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/metisMenu/2.7.1/metisMenu.min.js"
     },
     {
       "name": "metrics-graphics",
@@ -7806,7 +7926,7 @@
     },
     {
       "name": "mini.css",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mini.css/2.3.4/mini-default.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mini.css/2.3.7/mini-default.min.css"
     },
     {
       "name": "minicart",
@@ -7842,7 +7962,7 @@
     },
     {
       "name": "mint-ui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mint-ui/2.2.9/mint-ui.common.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mint-ui/2.2.10/mint-ui.common.min.js"
     },
     {
       "name": "mistic100-Bootstrap-Confirmation",
@@ -7850,11 +7970,11 @@
     },
     {
       "name": "mithril",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mithril/1.1.3/mithril.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mithril/1.1.5/mithril.min.js"
     },
     {
       "name": "mixitup",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mixitup/2.1.11/jquery.mixitup.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.2.2/mixitup.min.js"
     },
     {
       "name": "mo-js",
@@ -7866,7 +7986,7 @@
     },
     {
       "name": "mobi.css",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mobi.css/3.0.4/mobi.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mobi.css/3.1.1/mobi.min.css"
     },
     {
       "name": "mobile-angular-ui",
@@ -7886,19 +8006,23 @@
     },
     {
       "name": "mobx-react",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mobx-react/4.3.2/index.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mobx-react/4.3.4/index.min.js"
     },
     {
       "name": "mobx",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mobx/3.3.0/mobx.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mobx/3.3.1/mobx.min.js"
     },
     {
       "name": "mocha",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mocha/3.5.3/mocha.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/mocha/4.0.1/mocha.min.js"
     },
     {
       "name": "mockstate",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/mockstate/0.0.7/mockstate.min.js"
+    },
+    {
+      "name": "Modaal",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Modaal/0.3.1/js/modaal.min.js"
     },
     {
       "name": "ModelCore",
@@ -7930,15 +8054,15 @@
     },
     {
       "name": "moment-timezone",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.13/moment-timezone.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.14/moment-timezone.min.js"
     },
     {
       "name": "moment.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.2/moment.min.js"
     },
     {
       "name": "monaco-editor",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.10.0/min/vs/editor/editor.main.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.10.1/min/vs/editor/editor.main.js"
     },
     {
       "name": "money.js",
@@ -7951,6 +8075,10 @@
     {
       "name": "monkberry",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/monkberry/4.0.8/monkberry.min.js"
+    },
+    {
+      "name": "moonjs",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/moonjs/0.11.0/moon.min.js"
     },
     {
       "name": "mootools-more",
@@ -7978,7 +8106,7 @@
     },
     {
       "name": "most",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/most/1.7.1/most.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/most/1.7.2/most.min.js"
     },
     {
       "name": "motajs",
@@ -8018,7 +8146,7 @@
     },
     {
       "name": "msgpack5",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/msgpack5/3.5.0/msgpack5.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/msgpack5/3.6.0/msgpack5.min.js"
     },
     {
       "name": "msl-client-browser",
@@ -8038,7 +8166,7 @@
     },
     {
       "name": "muicss",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/muicss/0.9.26/js/mui.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/muicss/0.9.29/js/mui.min.js"
     },
     {
       "name": "multi-select",
@@ -8078,7 +8206,7 @@
     },
     {
       "name": "muuri",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/muuri/0.4.1/muuri.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/muuri/0.5.1/muuri.min.js"
     },
     {
       "name": "mvw-injection",
@@ -8094,7 +8222,7 @@
     },
     {
       "name": "myscript",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/myscript/1.2.3/myscript.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/myscript/4.0.0/myscript.min.js"
     },
     {
       "name": "najaxjs",
@@ -8126,7 +8254,7 @@
     },
     {
       "name": "nes",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/nes/6.4.3/client.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/nes/7.0.1/client.js"
     },
     {
       "name": "Nestable",
@@ -8134,7 +8262,7 @@
     },
     {
       "name": "nestable2",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/nestable2/1.5.0/jquery.nestable.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/nestable2/1.6.0/jquery.nestable.min.js"
     },
     {
       "name": "nestedSortable",
@@ -8242,7 +8370,7 @@
     },
     {
       "name": "ng-quill",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ng-quill/3.4.0/ng-quill.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ng-quill/3.5.1/ng-quill.min.js"
     },
     {
       "name": "ng-showdown",
@@ -8282,7 +8410,7 @@
     },
     {
       "name": "ng.ckeditor",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ng.ckeditor/2.0.4/ng-ckeditor.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ng.ckeditor/2.0.5/ng-ckeditor.min.js"
     },
     {
       "name": "ng2-bootstrap",
@@ -8302,7 +8430,7 @@
     },
     {
       "name": "ngclipboard",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ngclipboard/1.1.1/ngclipboard.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ngclipboard/1.1.2/ngclipboard.min.js"
     },
     {
       "name": "ngDraggable",
@@ -8330,7 +8458,7 @@
     },
     {
       "name": "ngOfficeUiFabric",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ngOfficeUiFabric/0.15.4/ngOfficeUiFabric.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ngOfficeUiFabric/0.16.0/ngOfficeUiFabric.min.js"
     },
     {
       "name": "ngprogress",
@@ -8338,7 +8466,7 @@
     },
     {
       "name": "ngreact",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ngreact/0.4.1/ngReact.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ngreact/0.5.1/ngReact.min.js"
     },
     {
       "name": "ngStorage",
@@ -8382,7 +8510,7 @@
     },
     {
       "name": "nomnoml",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/nomnoml/0.1.1/nomnoml.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/nomnoml/0.2.0/nomnoml.min.js"
     },
     {
       "name": "normalize",
@@ -8417,6 +8545,10 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/notify/0.4.2/notify.min.js"
     },
     {
+      "name": "noty",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/noty/3.1.2/noty.min.js"
+    },
+    {
       "name": "noUiSlider",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/10.1.0/nouislider.min.js"
     },
@@ -8431,6 +8563,14 @@
     {
       "name": "nuclear-js",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/nuclear-js/1.4.0/nuclear.min.js"
+    },
+    {
+      "name": "numbered",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/numbered/1.1.0/index.min.js"
+    },
+    {
+      "name": "numbers.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/numbers.js/0.6.0/numbers.min.js"
     },
     {
       "name": "numbro",
@@ -8466,7 +8606,7 @@
     },
     {
       "name": "oauth-io",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oauth-io/0.6.1/oauth.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oauth-io/0.6.2/oauth.min.js"
     },
     {
       "name": "object-fit-images",
@@ -8482,7 +8622,7 @@
     },
     {
       "name": "oboe.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oboe.js/2.1.3/oboe-browser.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oboe.js/2.1.4/oboe-browser.min.js"
     },
     {
       "name": "ocanvas",
@@ -8510,7 +8650,7 @@
     },
     {
       "name": "oidc-client",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oidc-client/1.3.0/oidc-client.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oidc-client/1.4.1/oidc-client.min.js"
     },
     {
       "name": "oimo",
@@ -8558,11 +8698,11 @@
     },
     {
       "name": "ol3",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ol3/4.3.3/ol.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ol3/4.4.2/ol.js"
     },
     {
       "name": "omniscient",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/omniscient/4.1.1/omniscient.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/omniscient/4.2.0/omniscient.min.js"
     },
     {
       "name": "onecolor",
@@ -8578,11 +8718,11 @@
     },
     {
       "name": "onsen",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/onsen/2.6.0/js/onsenui.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/onsen/2.8.1/js/onsenui.min.js"
     },
     {
       "name": "oojs-ui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oojs-ui/0.23.1/oojs-ui.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oojs-ui/0.24.2/oojs-ui.min.js"
     },
     {
       "name": "oojs",
@@ -8610,15 +8750,15 @@
     },
     {
       "name": "openlayers",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.3.3/ol.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.4.2/ol.js"
     },
     {
       "name": "openlocationcode",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/openlocationcode/1.0.2/openlocationcode.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/openlocationcode/1.0.3/openlocationcode.min.js"
     },
     {
       "name": "openpgp",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/openpgp/2.5.11/openpgp.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/openpgp/2.5.13/openpgp.min.js"
     },
     {
       "name": "openseadragon",
@@ -8642,7 +8782,7 @@
     },
     {
       "name": "oppia",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oppia/0.0.2/oppia-player.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/oppia/0.0.3/oppia-player.min.js"
     },
     {
       "name": "optimal-select",
@@ -8706,7 +8846,7 @@
     },
     {
       "name": "p5.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/p5.min.js"
     },
     {
       "name": "pablo",
@@ -8742,7 +8882,7 @@
     },
     {
       "name": "paginationjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/paginationjs/2.0.8/pagination.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/paginationjs/2.1.0/pagination.min.js"
     },
     {
       "name": "paho-mqtt",
@@ -8770,7 +8910,7 @@
     },
     {
       "name": "paper.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.11.4/paper-full.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.11.5/paper-full.min.js"
     },
     {
       "name": "papier",
@@ -8782,11 +8922,11 @@
     },
     {
       "name": "parallax.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/parallax.js/1.4.2/parallax.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/parallax.js/1.5.0/parallax.min.js"
     },
     {
       "name": "parallax",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/parallax/2.1.3/parallax.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"
     },
     {
       "name": "parallaxify",
@@ -8798,7 +8938,7 @@
     },
     {
       "name": "parse",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/parse/1.10.0/parse.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/parse/1.10.2/parse.min.js"
     },
     {
       "name": "parsley.js",
@@ -8806,7 +8946,7 @@
     },
     {
       "name": "particle-api-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/particle-api-js/6.6.2/particle.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/particle-api-js/7.0.1/particle.min.js"
     },
     {
       "name": "particles.js",
@@ -8814,7 +8954,7 @@
     },
     {
       "name": "particlesjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.0.2/particles.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.1.0/particles.min.js"
     },
     {
       "name": "paste.js",
@@ -8826,7 +8966,7 @@
     },
     {
       "name": "patternfly",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/patternfly/3.27.5/js/patternfly.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/patternfly/3.30.0/js/patternfly.min.js"
     },
     {
       "name": "paver",
@@ -8846,11 +8986,11 @@
     },
     {
       "name": "pdf.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/1.9.589/pdf.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.139/pdf.min.js"
     },
     {
       "name": "pdfmake",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.33/pdfmake.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.34/pdfmake.min.js"
     },
     {
       "name": "pdfobject",
@@ -8858,7 +8998,7 @@
     },
     {
       "name": "peaks.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/peaks.js/0.9.1/peaks.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/peaks.js/0.9.2/peaks.min.js"
     },
     {
       "name": "peerjs",
@@ -8890,19 +9030,23 @@
     },
     {
       "name": "perfundo",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/perfundo/3.0.6/perfundo.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/perfundo/4.0.0/perfundo.min.css"
     },
     {
       "name": "perliedman-leaflet-control-geocoder",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/perliedman-leaflet-control-geocoder/1.5.5/Control.Geocoder.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/perliedman-leaflet-control-geocoder/1.5.7/Control.Geocoder.min.js"
     },
     {
       "name": "persian.js",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/persian.js/0.3.0/persian.min.js"
     },
     {
+      "name": "PgwSlider",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/PgwSlider/2.3.1/pgwslider.min.js"
+    },
+    {
       "name": "phaser-ce",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/phaser-ce/2.8.7/phaser.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/phaser-ce/2.9.2/phaser.min.js"
     },
     {
       "name": "phaser",
@@ -8942,7 +9086,7 @@
     },
     {
       "name": "pica",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pica/3.0.6/pica.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pica/4.0.1/pica.min.js"
     },
     {
       "name": "pickadate.js",
@@ -8994,11 +9138,11 @@
     },
     {
       "name": "pivottable",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.15.0/pivot.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.16.1/pivot.min.js"
     },
     {
       "name": "piwik",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/piwik/3.1.1/piwik.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/piwik/3.2.0/piwik.js"
     },
     {
       "name": "pixi-filters",
@@ -9006,7 +9150,7 @@
     },
     {
       "name": "pixi.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.5.6/pixi.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.6.1/pixi.min.js"
     },
     {
       "name": "pizza",
@@ -9014,7 +9158,7 @@
     },
     {
       "name": "pizzicato",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pizzicato/0.6.1/Pizzicato.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pizzicato/0.6.2/Pizzicato.min.js"
     },
     {
       "name": "Pjax-Standalone",
@@ -9077,12 +9221,16 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/pleasejs/0.4.2/Please.min.js"
     },
     {
+      "name": "plotly.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/plotly.js/1.31.2/plotly.min.js"
+    },
+    {
       "name": "plottable.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/plottable.js/3.6.0/plottable.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/plottable.js/3.7.0/plottable.min.js"
     },
     {
       "name": "plupload",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/plupload/3.1.0/plupload.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/plupload/3.1.1/plupload.min.js"
     },
     {
       "name": "pluralize",
@@ -9090,7 +9238,7 @@
     },
     {
       "name": "plyr",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/plyr/2.0.13/plyr.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/plyr/2.0.18/plyr.js"
     },
     {
       "name": "pnotify",
@@ -9130,7 +9278,7 @@
     },
     {
       "name": "popper.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.5/popper.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/popper.min.js"
     },
     {
       "name": "portal",
@@ -9166,7 +9314,7 @@
     },
     {
       "name": "preact",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/preact/8.2.5/preact.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/preact/8.2.6/preact.min.js"
     },
     {
       "name": "preconditions",
@@ -9190,7 +9338,7 @@
     },
     {
       "name": "pretty-checkbox",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/2.2.1/pretty.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/3.0.0/pretty-checkbox.min.css"
     },
     {
       "name": "prettyCheckable",
@@ -9214,7 +9362,7 @@
     },
     {
       "name": "Primer",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Primer/9.4.0/build.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Primer/9.6.0/build.css"
     },
     {
       "name": "primeui",
@@ -9226,11 +9374,11 @@
     },
     {
       "name": "printThis",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/printThis/1.9.0/printThis.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/printThis/1.12.0/printThis.min.js"
     },
     {
       "name": "prism",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/prism/1.8.1/prism.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/prism/1.8.4/prism.min.js"
     },
     {
       "name": "probtn",
@@ -9250,7 +9398,7 @@
     },
     {
       "name": "progressively",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/progressively/1.1.5/progressively.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/progressively/1.2.5/progressively.min.js"
     },
     {
       "name": "proj4js",
@@ -9270,7 +9418,7 @@
     },
     {
       "name": "prop-types",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.5.10/prop-types.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.6.0/prop-types.min.js"
     },
     {
       "name": "prostyle",
@@ -9330,7 +9478,7 @@
     },
     {
       "name": "push.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/push.js/1.0.4/push.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/push.js/1.0.5/push.min.js"
     },
     {
       "name": "pusher-angular",
@@ -9338,7 +9486,7 @@
     },
     {
       "name": "pusher",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pusher/4.1.0/pusher.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/pusher/4.2.1/pusher.min.js"
     },
     {
       "name": "pushy",
@@ -9406,7 +9554,7 @@
     },
     {
       "name": "quickblox",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/quickblox/2.6.1/quickblox.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/quickblox/2.7.0/quickblox.min.js"
     },
     {
       "name": "quicksound.js",
@@ -9414,15 +9562,15 @@
     },
     {
       "name": "quill",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/quill/1.3.2/quill.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/quill/1.3.4/quill.min.js"
     },
     {
       "name": "quixote",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/quixote/0.12.5/quixote.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/quixote/0.14.0/quixote.min.js"
     },
     {
       "name": "qunit",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/qunit/2.4.0/qunit.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/qunit/2.4.1/qunit.min.js"
     },
     {
       "name": "quo.js",
@@ -9454,7 +9602,7 @@
     },
     {
       "name": "ractive",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ractive/1.0.0-build-9/ractive.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ractive/1.0.0-build-99/ractive.min.js"
     },
     {
       "name": "radialIndicator",
@@ -9474,7 +9622,7 @@
     },
     {
       "name": "radium",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/radium/0.19.4/radium.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/radium/0.19.6/radium.min.js"
     },
     {
       "name": "rainbow",
@@ -9486,11 +9634,11 @@
     },
     {
       "name": "rambda",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rambda/0.9.2/webVersion.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rambda/1.0.4/webVersion.js"
     },
     {
       "name": "ramda",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ramda/0.24.1/ramda.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/ramda/0.25.0/ramda.min.js"
     },
     {
       "name": "ramjet.js",
@@ -9542,11 +9690,11 @@
     },
     {
       "name": "raty",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/raty/2.7.1/jquery.raty.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/raty/2.8.0/jquery.raty.min.js"
     },
     {
       "name": "raven.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.17.0/raven.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.20.1/raven.min.js"
     },
     {
       "name": "re-tree",
@@ -9554,11 +9702,11 @@
     },
     {
       "name": "react-ace",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-ace/5.2.0/react-ace.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-ace/5.5.0/react-ace.min.js"
     },
     {
       "name": "react-autocomplete",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-autocomplete/1.7.1/react-autocomplete.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-autocomplete/1.7.2/react-autocomplete.min.js"
     },
     {
       "name": "react-autosuggest",
@@ -9566,7 +9714,7 @@
     },
     {
       "name": "react-block-ui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-block-ui/1.0.3/reactblockui.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-block-ui/1.1.1/reactblockui.min.js"
     },
     {
       "name": "react-bootstrap-select",
@@ -9574,7 +9722,7 @@
     },
     {
       "name": "react-bootstrap-table",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap-table/4.0.5/react-bootstrap-table.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap-table/4.1.4/react-bootstrap-table.min.js"
     },
     {
       "name": "react-bootstrap-typeahead",
@@ -9582,15 +9730,19 @@
     },
     {
       "name": "react-bootstrap",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.31.3/react-bootstrap.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.31.5/react-bootstrap.min.js"
     },
     {
       "name": "react-chartjs-2",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-chartjs-2/2.6.2/react-chartjs-2.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-chartjs-2/2.6.4/react-chartjs-2.min.js"
     },
     {
       "name": "react-chartjs",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-chartjs/0.8.0/react-chartjs.min.js"
+    },
+    {
+      "name": "react-contextmenu",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-contextmenu/2.8.0/react-contextmenu.js"
     },
     {
       "name": "react-cookie",
@@ -9598,7 +9750,7 @@
     },
     {
       "name": "react-data-grid",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-data-grid/2.0.60/react-data-grid.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-data-grid/2.0.76/react-data-grid.min.js"
     },
     {
       "name": "react-date-picker",
@@ -9606,11 +9758,11 @@
     },
     {
       "name": "react-datepicker",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-datepicker/0.55.0/react-datepicker.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-datepicker/0.61.0/react-datepicker.min.js"
     },
     {
       "name": "react-datetime",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-datetime/2.10.2/react-datetime.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-datetime/2.11.0/react-datetime.min.js"
     },
     {
       "name": "react-disqus-thread",
@@ -9618,11 +9770,11 @@
     },
     {
       "name": "react-dom",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-dom/15.6.1/react-dom.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.1.1/umd/react-dom.production.min.js"
     },
     {
       "name": "react-faux-dom",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-faux-dom/4.0.3/ReactFauxDOM.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-faux-dom/4.1.0/ReactFauxDOM.min.js"
     },
     {
       "name": "react-foundation-apps",
@@ -9630,19 +9782,19 @@
     },
     {
       "name": "react-highcharts",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-highcharts/12.0.0/ReactHighcharts.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-highcharts/15.0.0/ReactHighcharts.js"
     },
     {
       "name": "react-inlinesvg",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-inlinesvg/0.6.2/react-inlinesvg.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-inlinesvg/0.7.1/react-inlinesvg.min.js"
     },
     {
       "name": "react-instantsearch-theme-algolia",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-instantsearch-theme-algolia/4.1.1/style.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-instantsearch-theme-algolia/4.2.0/style.min.css"
     },
     {
       "name": "react-instantsearch",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-instantsearch/4.1.1/Core.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-instantsearch/4.2.0/Core.min.js"
     },
     {
       "name": "react-intl",
@@ -9653,16 +9805,20 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-ios-switch/0.1.19/bundle.js"
     },
     {
+      "name": "react-leaflet",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-leaflet/1.7.4/react-leaflet.min.js"
+    },
+    {
       "name": "react-localstorage",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-localstorage/0.3.1/react-localstorage.min.js"
     },
     {
       "name": "react-markdown",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-markdown/2.5.0/react-markdown.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-markdown/2.5.1/react-markdown.js"
     },
     {
       "name": "react-modal",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-modal/2.3.2/react-modal.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-modal/3.1.2/react-modal.min.js"
     },
     {
       "name": "react-motion-ui-pack",
@@ -9685,12 +9841,16 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-nvd3/0.5.7/react-nvd3.min.js"
     },
     {
+      "name": "react-popper",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-popper/0.7.4/react-popper.min.js"
+    },
+    {
       "name": "react-quill",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-quill/0.4.1/react-quill.min.js"
     },
     {
       "name": "react-redux-form",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-redux-form/1.14.1/ReactReduxForm.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-redux-form/1.16.1/ReactReduxForm.min.js"
     },
     {
       "name": "react-redux",
@@ -9730,35 +9890,35 @@
     },
     {
       "name": "react-swipe",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-swipe/5.0.8/react-swipe.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-swipe/5.1.0/react-swipe.min.js"
     },
     {
       "name": "react-table",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-table/6.5.3/react-table.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-table/6.7.4/react-table.js"
     },
     {
       "name": "react-textarea-autosize",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-textarea-autosize/5.1.0/react-textarea-autosize.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-textarea-autosize/5.2.1/react-textarea-autosize.min.js"
     },
     {
       "name": "react-transition-group",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-transition-group/2.2.0/react-transition-group.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-transition-group/2.2.1/react-transition-group.min.js"
     },
     {
       "name": "react-uwp",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-uwp/1.1.5/css/segoe-mdl2-assets.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-uwp/1.1.7/css/segoe-mdl2-assets.css"
     },
     {
       "name": "react-virtualized",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-virtualized/9.10.1/react-virtualized.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-virtualized/9.12.0/react-virtualized.min.js"
     },
     {
       "name": "react-widgets",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-widgets/4.0.0/react-widgets.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react-widgets/4.1.1/react-widgets.js"
     },
     {
       "name": "react",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react/15.6.1/react.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/react/16.1.1/umd/react.production.min.js"
     },
     {
       "name": "reactable",
@@ -9798,15 +9958,19 @@
     },
     {
       "name": "recompose",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/recompose/0.25.0/Recompose.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/recompose/0.26.0/Recompose.min.js"
     },
     {
       "name": "reconnecting-websocket",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/reconnecting-websocket/1.0.0/reconnecting-websocket.min.js"
     },
     {
+      "name": "recorderjs",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/recorderjs/0.1.0/recorder.min.js"
+    },
+    {
       "name": "redom",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redom/3.4.0/redom.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redom/3.7.0/redom.min.js"
     },
     {
       "name": "reductio",
@@ -9814,23 +9978,23 @@
     },
     {
       "name": "redux-form-material-ui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-form-material-ui/4.3.0/redux-form-material-ui.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-form-material-ui/4.3.1/redux-form-material-ui.min.js"
     },
     {
       "name": "redux-form",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-form/7.0.4/redux-form.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-form/7.1.2/redux-form.min.js"
     },
     {
       "name": "redux-little-router",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-little-router/14.2.0/redux-little-router.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-little-router/14.2.3/redux-little-router.min.js"
     },
     {
       "name": "redux-persist",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-persist/4.10.0/redux-persist.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-persist/4.10.2/redux-persist.min.js"
     },
     {
       "name": "redux-promise-middleware",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-promise-middleware/4.4.1/redux-promise-middleware.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-promise-middleware/5.0.0/redux-promise-middleware.min.js"
     },
     {
       "name": "redux-router",
@@ -9838,7 +10002,7 @@
     },
     {
       "name": "redux-saga",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-saga/0.15.6/redux-saga.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/redux-saga/0.16.0/redux-saga.min.js"
     },
     {
       "name": "redux-thunk",
@@ -9962,7 +10126,7 @@
     },
     {
       "name": "response.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/response.js/0.9.1/response.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/response.js/0.10.0/response.min.js"
     },
     {
       "name": "responsive-elements",
@@ -9998,7 +10162,7 @@
     },
     {
       "name": "resumable.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/resumable.js/1.0.3/resumable.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/resumable.js/1.1.0/resumable.min.js"
     },
     {
       "name": "retina.js",
@@ -10026,7 +10190,7 @@
     },
     {
       "name": "riot",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/riot/3.7.2/riot.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/riot/3.7.4/riot.min.js"
     },
     {
       "name": "riotux",
@@ -10053,12 +10217,16 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/rlite-router/2.0.3/rlite.min.js"
     },
     {
+      "name": "roll-call",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/roll-call/0.7.1/rollcall.min.js"
+    },
+    {
       "name": "roll",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/roll/0.1.2/roll.min.js"
     },
     {
       "name": "rollbar.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.2.8/rollbar.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.1/rollbar.min.js"
     },
     {
       "name": "rome",
@@ -10066,7 +10234,11 @@
     },
     {
       "name": "roslibjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/roslibjs/0.18.0/roslib.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/roslibjs/0.19.0/roslib.min.js"
+    },
+    {
+      "name": "rot.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rot.js/0.6.0/rot.min.js"
     },
     {
       "name": "roundabout",
@@ -10078,11 +10250,11 @@
     },
     {
       "name": "rsvp",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rsvp/4.6.1/rsvp.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rsvp/4.7.0/rsvp.min.js"
     },
     {
       "name": "rusha",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rusha/0.8.6/rusha.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rusha/0.8.7/rusha.min.js"
     },
     {
       "name": "rwdgrid",
@@ -10102,7 +10274,7 @@
     },
     {
       "name": "rxjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rxjs/5.4.3/Rx.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rxjs/5.5.2/Rx.min.js"
     },
     {
       "name": "RyanMullins-angular-hammer",
@@ -10114,7 +10286,7 @@
     },
     {
       "name": "rythm.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rythm.js/2.2.0/rythm.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/rythm.js/2.2.2/rythm.min.js"
     },
     {
       "name": "s3colors",
@@ -10122,7 +10294,7 @@
     },
     {
       "name": "sails.io.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sails.io.js/1.1.12/sails.io.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sails.io.js/1.1.13/sails.io.min.js"
     },
     {
       "name": "salesforce-canvas",
@@ -10142,7 +10314,7 @@
     },
     {
       "name": "sass.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sass.js/0.10.6/sass.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sass.js/0.10.7/sass.min.js"
     },
     {
       "name": "sat",
@@ -10174,7 +10346,7 @@
     },
     {
       "name": "sceditor",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sceditor/1.5.2/jquery.sceditor.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sceditor/2.0.0/jquery.sceditor.min.js"
     },
     {
       "name": "schedulejs",
@@ -10190,7 +10362,7 @@
     },
     {
       "name": "screenfull.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.3.1/screenfull.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.3.2/screenfull.min.js"
     },
     {
       "name": "script.js",
@@ -10206,7 +10378,7 @@
     },
     {
       "name": "scrolldir",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/scrolldir/1.2.17/scrolldir.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/scrolldir/1.2.18/scrolldir.min.js"
     },
     {
       "name": "scrollgress",
@@ -10278,7 +10450,7 @@
     },
     {
       "name": "select2",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/select2.min.js"
     },
     {
       "name": "Selectivity.js",
@@ -10298,7 +10470,7 @@
     },
     {
       "name": "semantic-ui-react",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui-react/0.73.1/semantic-ui-react.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui-react/0.76.0/semantic-ui-react.min.js"
     },
     {
       "name": "semantic-ui",
@@ -10322,7 +10494,7 @@
     },
     {
       "name": "shaka-player",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/shaka-player/2.2.1/shaka-player.compiled.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/shaka-player/2.2.6/shaka-player.compiled.js"
     },
     {
       "name": "sharer.js",
@@ -10361,12 +10533,16 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/shoestring/2.0.1/shoestring.min.js"
     },
     {
+      "name": "shopify-buy",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/shopify-buy/0.7.1/shopify-buy.umd.min.js"
+    },
+    {
       "name": "shopify-cartjs",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/shopify-cartjs/0.4.1/cart.min.js"
     },
     {
       "name": "should.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/should.js/13.1.0/should.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/should.js/13.1.3/should.min.js"
     },
     {
       "name": "show-your-terms",
@@ -10374,7 +10550,7 @@
     },
     {
       "name": "showdown",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/showdown/1.7.4/showdown.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.2/showdown.min.js"
     },
     {
       "name": "shower-core",
@@ -10386,7 +10562,7 @@
     },
     {
       "name": "Shuffle",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.0.2/shuffle.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.0.3/shuffle.min.js"
     },
     {
       "name": "side-comments",
@@ -10406,7 +10582,7 @@
     },
     {
       "name": "sigma.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/sigma.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.1/sigma.min.js"
     },
     {
       "name": "signalr.js",
@@ -10470,7 +10646,7 @@
     },
     {
       "name": "simplebar",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/simplebar/2.4.4/simplebar.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/simplebar/2.5.0/simplebar.min.js"
     },
     {
       "name": "simplecartjs",
@@ -10489,6 +10665,10 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/simplemodal/1.4.4/jquery.simplemodal.min.js"
     },
     {
+      "name": "simplePagination.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/simplePagination.js/1.6/jquery.simplePagination.min.js"
+    },
+    {
       "name": "simplestatemanager",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/simplestatemanager/2.2.5/ssm.min.js"
     },
@@ -10502,7 +10682,7 @@
     },
     {
       "name": "sinon.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sinon.js/3.3.0/sinon.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sinon.js/4.1.2/sinon.min.js"
     },
     {
       "name": "sir-trevor-js",
@@ -10554,11 +10734,11 @@
     },
     {
       "name": "slick-carousel",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"
     },
     {
       "name": "slick-lightbox",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/slick-lightbox/0.2.10/slick-lightbox.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/slick-lightbox/0.2.12/slick-lightbox.min.js"
     },
     {
       "name": "SlickNav",
@@ -10590,11 +10770,11 @@
     },
     {
       "name": "slim-select",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/slim-select/1.1.5/index.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/slim-select/1.3.1/index.js"
     },
     {
       "name": "slim.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/slim.js/2.9.11/Slim.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/slim.js/3.1.0/Slim.min.js"
     },
     {
       "name": "slipjs",
@@ -10634,7 +10814,7 @@
     },
     {
       "name": "smooth-scrollbar",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/7.4.1/smooth-scrollbar.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.2.4/smooth-scrollbar.js"
     },
     {
       "name": "smoothie",
@@ -10710,7 +10890,7 @@
     },
     {
       "name": "socket.io",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.3/socket.io.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js"
     },
     {
       "name": "socketcluster-client",
@@ -10774,7 +10954,7 @@
     },
     {
       "name": "spectre.css",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.4.2/spectre.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.4.5/spectre.min.css"
     },
     {
       "name": "spectrum-i18n",
@@ -10842,11 +11022,11 @@
     },
     {
       "name": "squel",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/squel/5.11.1/squel.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/squel/5.12.0/squel.min.js"
     },
     {
       "name": "squire-rte",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/squire-rte/1.8.9/squire.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/squire-rte/1.8.10/squire.js"
     },
     {
       "name": "squishy",
@@ -10918,7 +11098,7 @@
     },
     {
       "name": "stately.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stately.js/1.3.0/Stately.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stately.js/2.0.0/Stately.min.js"
     },
     {
       "name": "stats.js",
@@ -10926,15 +11106,19 @@
     },
     {
       "name": "stellar-base",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stellar-base/0.7.5/stellar-base.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stellar-base/0.7.6/stellar-base.min.js"
     },
     {
       "name": "stellar-sdk",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stellar-sdk/0.7.3/stellar-sdk.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stellar-sdk/0.7.5/stellar-sdk.min.js"
     },
     {
       "name": "stellar.js",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"
+    },
+    {
+      "name": "sticky-js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/sticky-js/1.2.0/sticky.min.js"
     },
     {
       "name": "sticky-kit",
@@ -10946,7 +11130,7 @@
     },
     {
       "name": "stickyfill",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stickyfill/1.1.4/stickyfill.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stickyfill/2.0.3/stickyfill.min.js"
     },
     {
       "name": "stickyfloat",
@@ -10966,11 +11150,15 @@
     },
     {
       "name": "store2",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/store2/2.5.5/store2.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/store2/2.5.9/store2.min.js"
     },
     {
       "name": "strapdown-topbar",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/strapdown-topbar/1.6.4/strapdown-topbar.min.js"
+    },
+    {
+      "name": "stretchy",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stretchy/1.1.0/stretchy.min.js"
     },
     {
       "name": "string_score",
@@ -10978,7 +11166,7 @@
     },
     {
       "name": "string-fn",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/string-fn/0.3.2/webVersion.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/string-fn/1.5.1/webVersion.js"
     },
     {
       "name": "string-format",
@@ -11010,11 +11198,11 @@
     },
     {
       "name": "stupidtable",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stupidtable/1.1.2/stupidtable.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/stupidtable/1.1.3/stupidtable.min.js"
     },
     {
       "name": "styled-components",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/styled-components/2.1.2/styled-components.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/styled-components/2.2.3/styled-components.min.js"
     },
     {
       "name": "stylus",
@@ -11042,7 +11230,7 @@
     },
     {
       "name": "superagent",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/superagent/3.6.0/superagent.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/superagent/3.8.1/superagent.min.js"
     },
     {
       "name": "superfish",
@@ -11062,23 +11250,23 @@
     },
     {
       "name": "survey-angular",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-angular/0.12.28/survey.angular.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-angular/0.96.0/survey.angular.min.js"
     },
     {
       "name": "survey-jquery",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-jquery/0.12.28/survey.jquery.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-jquery/0.96.0/survey.jquery.min.js"
     },
     {
       "name": "survey-knockout",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-knockout/0.12.28/survey.ko.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-knockout/0.96.0/survey.ko.min.js"
     },
     {
       "name": "survey-react",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-react/0.12.28/survey.react.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-react/0.96.0/survey.react.min.js"
     },
     {
       "name": "survey-vue",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-vue/0.12.28/survey.vue.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/survey-vue/0.96.0/survey.vue.min.js"
     },
     {
       "name": "svg-injector",
@@ -11090,7 +11278,7 @@
     },
     {
       "name": "svg.connectable.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/svg.connectable.js/2.0.0/svg.connectable.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/svg.connectable.js/2.0.1/svg.connectable.min.js"
     },
     {
       "name": "svg.draggy.js",
@@ -11117,12 +11305,16 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/svgeezy/1.0.0/svgeezy.min.js"
     },
     {
+      "name": "svgxuse",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/svgxuse/1.2.6/svgxuse.min.js"
+    },
+    {
       "name": "sw-toolbox",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/sw-toolbox/3.6.1/sw-toolbox.js"
     },
     {
       "name": "swagger-ui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/3.2.2/swagger-ui.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/3.4.5/swagger-ui.js"
     },
     {
       "name": "sweetalert",
@@ -11154,7 +11346,7 @@
     },
     {
       "name": "Swiper",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.6/js/swiper.min.js"
     },
     {
       "name": "switchery",
@@ -11174,7 +11366,7 @@
     },
     {
       "name": "synaptic",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/synaptic/1.1.2/synaptic.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/synaptic/1.1.4/synaptic.min.js"
     },
     {
       "name": "SyntaxHighlighter",
@@ -11218,7 +11410,7 @@
     },
     {
       "name": "tablesort",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.0.1/tablesort.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.0.2/tablesort.min.js"
     },
     {
       "name": "tabletop.js",
@@ -11226,11 +11418,11 @@
     },
     {
       "name": "tabulator",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tabulator/3.2.2/js/tabulator.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tabulator/3.3.1/js/tabulator.min.js"
     },
     {
       "name": "tachyons",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.8.1/tachyons.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.9.0/tachyons.min.css"
     },
     {
       "name": "taffydb",
@@ -11290,7 +11482,7 @@
     },
     {
       "name": "template7",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/template7/1.3.0/template7.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/template7/1.3.1/template7.min.js"
     },
     {
       "name": "templatebinding",
@@ -11303,6 +11495,10 @@
     {
       "name": "terraformer",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/terraformer/1.0.8/terraformer.min.js"
+    },
+    {
+      "name": "tesseract.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tesseract.js/1.0.10/tesseract.min.js"
     },
     {
       "name": "tether-drop",
@@ -11318,7 +11514,7 @@
     },
     {
       "name": "tether",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.1/js/tether.min.js"
     },
     {
       "name": "textAngular",
@@ -11334,7 +11530,7 @@
     },
     {
       "name": "textile-js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/textile-js/2.0.3/textile.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/textile-js/2.0.4/textile.min.js"
     },
     {
       "name": "textillate",
@@ -11358,7 +11554,7 @@
     },
     {
       "name": "three.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/three.js/87/three.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/three.js/88/three.min.js"
     },
     {
       "name": "ticketbase-js",
@@ -11366,7 +11562,7 @@
     },
     {
       "name": "tilt.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tilt.js/1.2.0/tilt.jquery.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tilt.js/1.2.1/tilt.jquery.min.js"
     },
     {
       "name": "timeago.js",
@@ -11382,7 +11578,7 @@
     },
     {
       "name": "timekit-js-sdk",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/timekit-js-sdk/1.10.2/timekit-sdk.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/timekit-js-sdk/1.11.0/timekit-sdk.min.js"
     },
     {
       "name": "timeline.css",
@@ -11402,7 +11598,7 @@
     },
     {
       "name": "timer.jquery",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/timer.jquery/0.7.0/timer.jquery.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/timer.jquery/0.7.1/timer.jquery.min.js"
     },
     {
       "name": "timezone-js",
@@ -11414,11 +11610,11 @@
     },
     {
       "name": "tiny-date-picker",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tiny-date-picker/3.0.0/tiny-date-picker.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tiny-date-picker/3.1.5/tiny-date-picker.min.js"
     },
     {
       "name": "tiny-slider",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.1.8/min/tiny-slider.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.3.4/min/tiny-slider.js"
     },
     {
       "name": "tinycolor",
@@ -11434,7 +11630,7 @@
     },
     {
       "name": "tinymce",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tinymce/4.6.7/tinymce.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tinymce/4.7.2/tinymce.min.js"
     },
     {
       "name": "TinyNav.js",
@@ -11490,7 +11686,7 @@
     },
     {
       "name": "tocbot",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tocbot/3.0.3/tocbot.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tocbot/3.0.7/tocbot.min.js"
     },
     {
       "name": "Tocca.js",
@@ -11510,7 +11706,7 @@
     },
     {
       "name": "tone",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tone/0.12.2/Tone.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tone/0.12.10/Tone.min.js"
     },
     {
       "name": "tooltipster",
@@ -11539,6 +11735,10 @@
     {
       "name": "toxiclibsjs",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/toxiclibsjs/0.1.3/toxiclibs.min.js"
+    },
+    {
+      "name": "tracing.js",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tracing.js/1.1.3/tracing.min.js"
     },
     {
       "name": "tracking.js",
@@ -11590,15 +11790,15 @@
     },
     {
       "name": "triangles",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/triangles/1.0.0/js/triangles.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/triangles/1.0.2/js/triangles.min.js"
     },
     {
       "name": "trianglify",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/trianglify/1.1.0/trianglify.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/trianglify/1.2.0/trianglify.min.js"
     },
     {
       "name": "tributejs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tributejs/3.0.3/tribute.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tributejs/3.1.3/tribute.min.js"
     },
     {
       "name": "Trip.js",
@@ -11606,15 +11806,23 @@
     },
     {
       "name": "trix",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/trix/0.11.0/trix.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/trix/0.11.1/trix.js"
     },
     {
       "name": "Trumbowyg",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Trumbowyg/2.8.0/trumbowyg.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Trumbowyg/2.8.1/trumbowyg.min.js"
     },
     {
       "name": "trunk8",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/trunk8/1.3.3/trunk8.min.js"
+    },
+    {
+      "name": "tslib",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tslib/1.8.0/tslib.min.js"
+    },
+    {
+      "name": "tuesday",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/tuesday/1.1.0/tuesday.min.css"
     },
     {
       "name": "tufte-css",
@@ -11630,7 +11838,7 @@
     },
     {
       "name": "Turf.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Turf.js/4.7.3/turf.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.0.4/turf.min.js"
     },
     {
       "name": "turn.js",
@@ -11646,7 +11854,7 @@
     },
     {
       "name": "twbuttons",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/twbuttons/0.1.1/twbuttons.min.css"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/twbuttons/0.1.2/twbuttons.min.css"
     },
     {
       "name": "tween.js",
@@ -11694,7 +11902,7 @@
     },
     {
       "name": "twitter-fetcher",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/twitter-fetcher/17.0.0/js/twitterFetcher_min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/twitter-fetcher/17.0.2/js/twitterFetcher_min.js"
     },
     {
       "name": "twitterlib.js",
@@ -11702,7 +11910,7 @@
     },
     {
       "name": "twix.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/twix.js/1.2.0/twix.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/twix.js/1.2.1/twix.min.js"
     },
     {
       "name": "two.js",
@@ -11734,7 +11942,7 @@
     },
     {
       "name": "typeis",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/typeis/1.1.1/typeis.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/typeis/1.1.2/typeis.min.js"
     },
     {
       "name": "typeit",
@@ -11746,7 +11954,7 @@
     },
     {
       "name": "typescript",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/typescript/2.5.2/typescript.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/typescript/2.6.1/typescript.min.js"
     },
     {
       "name": "TypeWatch",
@@ -11770,7 +11978,7 @@
     },
     {
       "name": "UAParser.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/UAParser.js/0.7.14/ua-parser.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/UAParser.js/0.7.17/ua-parser.min.js"
     },
     {
       "name": "ui-leaflet",
@@ -11814,7 +12022,7 @@
     },
     {
       "name": "Uniform.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Uniform.js/4.2.0/js/jquery.uniform.bundled.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Uniform.js/4.2.2/js/jquery.uniform.bundled.js"
     },
     {
       "name": "unitegallery",
@@ -11846,7 +12054,7 @@
     },
     {
       "name": "URI.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.18.12/URI.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.19.0/URI.min.js"
     },
     {
       "name": "url-search-params",
@@ -11878,7 +12086,7 @@
     },
     {
       "name": "uswds",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/uswds/1.3.1/js/uswds.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/uswds/1.4.2/js/uswds.min.js"
     },
     {
       "name": "utf8",
@@ -11902,11 +12110,11 @@
     },
     {
       "name": "validate.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/validate.js/0.11.1/validate.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/validate.js/0.12.0/validate.min.js"
     },
     {
       "name": "validator",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/validator/8.2.0/validator.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/validator/9.1.1/validator.min.js"
     },
     {
       "name": "validatorjs",
@@ -11918,7 +12126,7 @@
     },
     {
       "name": "vanilla-lazyload",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/10.3.0/lazyload.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/10.3.3/lazyload.min.js"
     },
     {
       "name": "vanilla-masker",
@@ -11946,7 +12154,7 @@
     },
     {
       "name": "vega-lite",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vega-lite/1.3.1/vega-lite.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vega-lite/2.0.1/vega-lite.min.js"
     },
     {
       "name": "vega-tooltip",
@@ -11954,7 +12162,7 @@
     },
     {
       "name": "vega",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vega/3.0.2/vega.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vega/3.0.7/vega.min.js"
     },
     {
       "name": "vegas",
@@ -11982,7 +12190,7 @@
     },
     {
       "name": "vertx",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vertx/3.4.2/vertx-eventbus.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vertx/3.5.0/vertx-eventbus.min.js"
     },
     {
       "name": "vex-js",
@@ -11994,7 +12202,7 @@
     },
     {
       "name": "victory",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/victory/0.22.2/victory.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/victory/0.24.2/victory.min.js"
     },
     {
       "name": "Vidage",
@@ -12010,7 +12218,7 @@
     },
     {
       "name": "video.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/video.js/6.2.8/video.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/video.js/6.5.0/video.min.js"
     },
     {
       "name": "videogular-themes-default",
@@ -12026,19 +12234,27 @@
     },
     {
       "name": "videojs-contrib-ads",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/5.1.0/videojs.ads.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/5.1.4/videojs.ads.min.js"
     },
     {
       "name": "videojs-contrib-dash",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-dash/2.9.1/videojs-dash.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-dash/2.9.2/videojs-dash.min.js"
     },
     {
       "name": "videojs-contrib-hls",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.11.0/videojs-contrib-hls.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.12.2/videojs-contrib-hls.min.js"
+    },
+    {
+      "name": "videojs-ga",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-ga/0.4.2/videojs.ga.min.js"
+    },
+    {
+      "name": "videojs-hotkeys",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-hotkeys/0.2.20/videojs.hotkeys.min.js"
     },
     {
       "name": "videojs-ima",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-ima/0.6.0/videojs.ima.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-ima/0.8.0/videojs.ima.min.js"
     },
     {
       "name": "videojs-markers",
@@ -12053,6 +12269,10 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-playLists/0.2.0/videojs-playlists.min.js"
     },
     {
+      "name": "videojs-record",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-record/2.0.2/videojs.record.min.js"
+    },
+    {
       "name": "videojs-resolution-switcher",
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-resolution-switcher/0.4.2/videojs-resolution-switcher.min.js"
     },
@@ -12065,16 +12285,20 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-vast-vpaid/2.0.2/videojs_5.vast.vpaid.min.js"
     },
     {
+      "name": "videojs-wavesurfer",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-wavesurfer/2.0.2/videojs.wavesurfer.min.js"
+    },
+    {
       "name": "videojs-youtube",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/2.4.0/Youtube.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/2.4.1/Youtube.min.js"
     },
     {
       "name": "videomail-client",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videomail-client/2.1.4/videomail-client.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/videomail-client/2.1.26/videomail-client.min.js"
     },
     {
       "name": "vidom",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vidom/0.9.21/vidom.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vidom/0.9.24/vidom.min.js"
     },
     {
       "name": "viewer.js",
@@ -12082,7 +12306,7 @@
     },
     {
       "name": "viewerjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/viewerjs/0.7.2/viewer.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/viewerjs/0.10.0/viewer.min.js"
     },
     {
       "name": "viewport-units-buggyfill",
@@ -12098,7 +12322,7 @@
     },
     {
       "name": "vis",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vis/4.20.1/vis.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"
     },
     {
       "name": "visibility.js",
@@ -12118,7 +12342,7 @@
     },
     {
       "name": "vivus",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vivus/0.4.2/vivus.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vivus/0.4.3/vivus.min.js"
     },
     {
       "name": "viz.js",
@@ -12126,15 +12350,15 @@
     },
     {
       "name": "vizceral",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vizceral/4.5.5/vizceral.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vizceral/4.6.0/vizceral.min.js"
     },
     {
       "name": "vjs-video",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vjs-video/0.1.10/vjs-video.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vjs-video/0.1.11/vjs-video.min.js"
     },
     {
       "name": "voca",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/voca/1.3.0/voca.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/voca/1.3.1/voca.min.js"
     },
     {
       "name": "vocalizer",
@@ -12162,7 +12386,7 @@
     },
     {
       "name": "vue-chartjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-chartjs/2.8.7/vue-chartjs.full.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-chartjs/3.0.2/vue-chartjs.min.js"
     },
     {
       "name": "vue-clickaway",
@@ -12170,11 +12394,11 @@
     },
     {
       "name": "vue-color",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-color/2.4.0/vue-color.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-color/2.4.3/vue-color.min.js"
     },
     {
       "name": "vue-filter",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-filter/0.2.1/vue-filter.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-filter/0.2.2/vue-filter.min.js"
     },
     {
       "name": "vue-focus",
@@ -12190,11 +12414,11 @@
     },
     {
       "name": "vue-i18n",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-i18n/7.3.0/vue-i18n.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-i18n/7.3.2/vue-i18n.min.js"
     },
     {
       "name": "vue-lazyload",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-lazyload/1.1.3/vue-lazyload.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-lazyload/1.1.4/vue-lazyload.js"
     },
     {
       "name": "vue-ls",
@@ -12206,7 +12430,7 @@
     },
     {
       "name": "vue-material",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-material/0.7.5/vue-material.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-material/1.0.0/vue-material.min.js"
     },
     {
       "name": "vue-paginate",
@@ -12218,7 +12442,7 @@
     },
     {
       "name": "vue-router",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-router/2.7.0/vue-router.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-router/3.0.1/vue-router.min.js"
     },
     {
       "name": "vue-smart-table",
@@ -12226,7 +12450,11 @@
     },
     {
       "name": "vue-strap",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-strap/1.1.37/vue-strap.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-strap/1.1.40/vue-strap.min.js"
+    },
+    {
+      "name": "vue-toasted",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue-toasted/1.1.22/vue-toasted.min.js"
     },
     {
       "name": "vue-validator",
@@ -12234,15 +12462,15 @@
     },
     {
       "name": "Vue.Draggable",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.14.1/vuedraggable.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/15.0.0/vuedraggable.min.js"
     },
     {
       "name": "vue",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue/2.4.4/vue.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.6/vue.min.js"
     },
     {
       "name": "vuefire",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vuefire/1.4.3/vuefire.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vuefire/1.4.4/vuefire.min.js"
     },
     {
       "name": "vuejs-paginator",
@@ -12250,11 +12478,11 @@
     },
     {
       "name": "vuetify",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vuetify/0.15.7/vuetify.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vuetify/0.17.1/vuetify.min.js"
     },
     {
       "name": "vuex",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vuex/2.4.0/vuex.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/vuex/3.0.1/vuex.min.js"
     },
     {
       "name": "vuikit",
@@ -12270,7 +12498,7 @@
     },
     {
       "name": "wangEditor",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/wangEditor/3.0.9/wangEditor.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/wangEditor/10.0.13/wangEditor.min.js"
     },
     {
       "name": "watch",
@@ -12282,11 +12510,11 @@
     },
     {
       "name": "waud.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/waud.js/0.9.13/waud.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/waud.js/0.9.16/waud.min.js"
     },
     {
       "name": "wavedrom",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/wavedrom/1.4.1/wavedrom.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/wavedrom/1.6.2/wavedrom.min.js"
     },
     {
       "name": "wavesurfer.js",
@@ -12326,11 +12554,11 @@
     },
     {
       "name": "webcamjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webcamjs/1.0.22/webcam.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webcamjs/1.0.23/webcam.min.js"
     },
     {
       "name": "webcomponentsjs",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/1.0.13/custom-elements-es5-adapter.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/1.0.19/custom-elements-es5-adapter.js"
     },
     {
       "name": "webfont",
@@ -12346,11 +12574,11 @@
     },
     {
       "name": "webpack-cesium",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webpack-cesium/1.31.2/webpack.cesium.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webpack-cesium/1.37.0/webpack.cesium.js"
     },
     {
       "name": "webrtc-adapter",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webrtc-adapter/5.0.4/adapter.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webrtc-adapter/6.0.2/adapter.min.js"
     },
     {
       "name": "WebRupee",
@@ -12366,7 +12594,7 @@
     },
     {
       "name": "webtorrent",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.98.19/webtorrent.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.98.20/webtorrent.min.js"
     },
     {
       "name": "webui-popover",
@@ -12394,7 +12622,7 @@
     },
     {
       "name": "what-input",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/what-input/5.0.1/what-input.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/what-input/5.0.3/what-input.min.js"
     },
     {
       "name": "when",
@@ -12486,7 +12714,7 @@
     },
     {
       "name": "xlsx",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.11.4/xlsx.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.11.9/xlsx.min.js"
     },
     {
       "name": "xregexp",
@@ -12494,7 +12722,7 @@
     },
     {
       "name": "xstream",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/xstream/10.9.0/xstream.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/xstream/11.0.0/xstream.min.js"
     },
     {
       "name": "xterm",
@@ -12522,15 +12750,15 @@
     },
     {
       "name": "yasgui",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/yasgui/2.7.0/yasgui.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/yasgui/2.7.8/yasgui.min.js"
     },
     {
       "name": "yasqe",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/yasqe/2.11.14/yasqe.bundled.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/yasqe/2.11.16/yasqe.bundled.min.js"
     },
     {
       "name": "yasr",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/yasr/2.11.9/yasr.bundled.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/yasr/2.12.5/yasr.bundled.min.js"
     },
     {
       "name": "yepnope",
@@ -12538,7 +12766,7 @@
     },
     {
       "name": "youtube-google-analytics",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/youtube-google-analytics/8.1.0/lunametrics-youtube.gtm.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/youtube-google-analytics/8.1.4/lunametrics-youtube.gtm.min.js"
     },
     {
       "name": "yui",
@@ -12546,11 +12774,11 @@
     },
     {
       "name": "z-schema",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/z-schema/3.18.4/ZSchema-browser-min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/z-schema/3.19.0/ZSchema-browser-min.js"
     },
     {
       "name": "zabuto_calendar",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/zabuto_calendar/1.2.1/zabuto_calendar.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/zabuto_calendar/1.6.0/zabuto_calendar.min.js"
     },
     {
       "name": "zclip",
@@ -12558,7 +12786,7 @@
     },
     {
       "name": "Zebra_datepicker",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Zebra_datepicker/1.9.4/javascript/zebra_datepicker.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Zebra_datepicker/1.9.6/zebra_datepicker.min.js"
     },
     {
       "name": "zenscroll",
@@ -12594,7 +12822,7 @@
     },
     {
       "name": "zone.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/zone.js/0.8.17/zone.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/zone.js/0.8.18/zone.min.js"
     },
     {
       "name": "zoom.js",
@@ -12602,7 +12830,7 @@
     },
     {
       "name": "zooming",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/zooming/1.2.5/zooming.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/zooming/1.2.6/zooming.min.js"
     },
     {
       "name": "zoomooz",
@@ -12622,7 +12850,7 @@
     },
     {
       "name": "zuck.js",
-      "latest": "https://cdnjs.cloudflare.com/ajax/libs/zuck.js/1.0.6/zuck.min.js"
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/zuck.js/1.1.0/zuck.min.js"
     },
     {
       "name": "zui",
@@ -12641,5 +12869,5 @@
       "latest": "https://cdnjs.cloudflare.com/ajax/libs/zxcvbn/4.4.2/zxcvbn.js"
     }
   ],
-  "total": 3160
+  "total": 3217
 }
